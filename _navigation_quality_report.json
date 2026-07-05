@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-07-05T03:35:11.081122Z",
+  "summary": {
+    "total_pages_with_permalink": 300,
+    "visible_pages": 250,
+    "hidden_pages": 50,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 742,
+    "inline_internal_target_page_count": 250,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 243,
+    "average_inline_inbound_links_per_visible_page": 2.97,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Alabama_d1f92d",
+        "title": "What Haunts Alabama's Wild Places?",
+        "permalink": "/what-haunts-alabamas-wild-places/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Alaska_7288f7",
+        "title": "Why Alaska Keeps Making Monster Stories",
+        "permalink": "/why-alaska-keeps-making-monster-stories/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Arizona_104fd3",
+        "title": "What Makes Arizona's Monsters Feel So Real?",
+        "permalink": "/what-makes-arizonas-monsters-feel-so/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Arkansas_2f717f",
+        "title": "What Haunts Arkansas' Rivers and Woods?",
+        "permalink": "/what-haunts-arkansas-rivers-and-woods/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Arkansas_2f717f_fouke_monster_boggy_1069c9",
+        "title": "Fouke Monster",
+        "permalink": "/fouke-monster/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "California_cf386e",
+        "title": "Why California Became Bigfoot Country",
+        "permalink": "/why-california-became-bigfoot-country/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Colorado_d28817",
+        "title": "What Haunts Colorado's Monster Country?",
+        "permalink": "/what-haunts-colorados-monster-country/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Colorado_d28817_rocky_mountain_bigfo_d24e92",
+        "title": "Bigfoot",
+        "permalink": "/bigfoot-6fb169/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Connecticut_ec4da3",
+        "title": "What Haunts Connecticut's Woods and Ridges?",
+        "permalink": "/what-haunts-connecticuts-woods-and/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Delaware_5861e4",
+        "title": "What Lurks in Delaware's Smallest Shadows?",
+        "permalink": "/what-lurks-in-delawares-smallest-shadows/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Florida_30c2d0",
+        "title": "Why Florida Makes Such Good Monster Country",
+        "permalink": "/why-florida-makes-such-good-monster/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Florida_30c2d0_skunk_ape_evidence_16ebe7",
+        "title": "Skunk Ape",
+        "permalink": "/skunk-ape/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Georgia_9113c6",
+        "title": "What Lurks in Georgia's Dark Water?",
+        "permalink": "/what-lurks-in-georgias-dark-water/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Hawaii_a1be95",
+        "title": "What Counts as a Hawaiian Cryptid?",
+        "permalink": "/hawaii/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Idaho_18334c",
+        "title": "What Haunts Idaho's Lakes and Forests?",
+        "permalink": "/what-haunts-idahos-lakes-and-forests/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Idaho_18334c_sharlie_payette_lake_50d00a",
+        "title": "Sharlie",
+        "permalink": "/sharlie/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Illinois_31b9d2",
+        "title": "What Haunts the Prairie State?",
+        "permalink": "/illinois/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Indiana_5d00be",
+        "title": "What Haunts Indiana's Water and Woods?",
+        "permalink": "/what-haunts-indianas-water-and-woods/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Iowa_08a48b_iowa_bigfoot_reports_ea504c",
+        "title": "Bigfoot",
+        "permalink": "/bigfoot-dbd3ec/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Iowa_08a48b_iowa_mystery_wildlif_167642",
+        "title": "Wildlife",
+        "permalink": "/wildlife-3ae3c1/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Kansas_48303f",
+        "title": "What Monsters Lurk in Kansas Folklore?",
+        "permalink": "/what-monsters-lurk-in-kansas-folklore/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Kentucky_e3b665",
+        "title": "What Haunts Kentucky's Monster Map?",
+        "permalink": "/what-haunts-kentuckys-monster-map/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Louisiana_b158e0",
+        "title": "What Lurks in Louisiana's Monster Country?",
+        "permalink": "/what-lurks-in-louisianas-monster-country/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Maine_8dc024",
+        "title": "What Monsters Haunt Maine's Wild Places?",
+        "permalink": "/what-monsters-haunt-maines-wild-places/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Maryland_1ac107",
+        "title": "What Haunts Maryland's Roads, Mountains and Bay?",
+        "permalink": "/what-haunts-marylands-roads-mountains/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Massachusetts_d42990",
+        "title": "Why Massachusetts Makes Such Strange Monsters",
+        "permalink": "/why-massachusetts-makes-such-strange/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Michigan_5110b3",
+        "title": "What Makes Michigan Such Monster Country?",
+        "permalink": "/what-makes-michigan-such-monster-country/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Minnesota_60590f",
+        "title": "What Lurks In Minnesota's Woods And Waters?",
+        "permalink": "/what-lurks-in-minnesotas-woods-and/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Minnesota_60590f_northwoods_bigfoot_9de9f4",
+        "title": "Bigfoot",
+        "permalink": "/bigfoot-0f61cc/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Mississippi_cba267",
+        "title": "What Monsters Haunt Mississippi's Woods and Rivers?",
+        "permalink": "/what-monsters-haunt-mississippis-woods/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Mississippi_cba267_phantom_panthers_wil_28e5ce",
+        "title": "Wildlife",
+        "permalink": "/wildlife-b3bb5b/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Missouri_d961c4",
+        "title": "What Lurks in Missouri's Monster Country?",
+        "permalink": "/what-lurks-in-missouris-monster-country/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Missouri_d961c4_mo_mo_mania_7a65c6",
+        "title": "Mo Mo",
+        "permalink": "/mo-mo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Missouri_d961c4_wildlife_misidentifi_e04e23",
+        "title": "Wildlife",
+        "permalink": "/wildlife-aff20d/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Montana_8d274f",
+        "title": "What Monsters Does Montana Remember Best?",
+        "permalink": "/what-monsters-does-montana-remember-best/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Nebraska_e9c60b",
+        "title": "Nebraska's Strangest Monster Stories Explained",
+        "permalink": "/nebraskas-strangest-monster-stories/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Nevada_b93191",
+        "title": "What Lurks in Nevada's Strange Waters?",
+        "permalink": "/what-lurks-in-nevadas-strange-waters/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "New_Hampshire_824569",
+        "title": "What Lurks in New Hampshire's Wild Places?",
+        "permalink": "/what-lurks-in-new-hampshires-wild-places/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "New_Jersey_18255a",
+        "title": "What Haunts New Jersey's Dark Pine Roads?",
+        "permalink": "/what-haunts-new-jerseys-dark-pine-roads/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "New_Jersey_18255a_jersey_devil_evidenc_b91c9f",
+        "title": "Jersey Devil",
+        "permalink": "/jersey-devil/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alaska_7288f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Arizona_104fd3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Arkansas_2f717f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "California_cf386e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Colorado_d28817",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Connecticut_ec4da3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Delaware_5861e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Florida_30c2d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Georgia_9113c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Hawaii_a1be95",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Idaho_18334c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Illinois_31b9d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Indiana_5d00be",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Iowa_08a48b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Kansas_48303f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Kentucky_e3b665",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Louisiana_b158e0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Maine_8dc024",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Maryland_1ac107",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Massachusetts_d42990",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Michigan_5110b3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Minnesota_60590f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Mississippi_cba267",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Missouri_d961c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Montana_8d274f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Nebraska_e9c60b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Nevada_b93191",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "New_Hampshire_824569",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "New_Jersey_18255a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "New_Mexico_45551f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "New_York_c7ef6c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "North_Carolina_cd988f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "North_Dakota_0b6838",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Ohio_d318c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Oklahoma_86daa4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Oregon_07719a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Pennsylvania_dff756",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Rhode_Island_b30a18",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "South_Carolina_11d001",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "South_Dakota_ad4a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Tennessee_1f4d4c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Texas_98125d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Utah_2ff606",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Vermont_835aef",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Virginia_027fb4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Washington_a27a66",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "West_Virginia_be1c72",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Wisconsin_52b248",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Wyoming_ed190c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_alabama_bigfoot_187c48",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_black_panthers_9e5430",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_index",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_mobile_wolf_woman_47e695",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_white_thang_6d198b",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_white_thang_6d198b",
+        "to": "Alabama_d1f92d",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_white_thang_6d198b",
+        "to": "Alabama_d1f92d_alabama_bigfoot_187c48",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_white_thang_6d198b",
+        "to": "Alabama_d1f92d_black_panthers_9e5430",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_white_thang_6d198b",
+        "to": "Alabama_d1f92d_mobile_wolf_woman_47e695",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_white_thang_6d198b",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_black_panthers_9e5430",
+        "to": "Alabama_d1f92d",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_black_panthers_9e5430",
+        "to": "Alabama_d1f92d_alabama_bigfoot_187c48",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_black_panthers_9e5430",
+        "to": "Alabama_d1f92d_mobile_wolf_woman_47e695",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_black_panthers_9e5430",
+        "to": "Alabama_d1f92d_white_thang_6d198b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_black_panthers_9e5430",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_bigfoot_187c48",
+        "to": "Alabama_d1f92d",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_bigfoot_187c48",
+        "to": "Alabama_d1f92d_black_panthers_9e5430",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_bigfoot_187c48",
+        "to": "Alabama_d1f92d_mobile_wolf_woman_47e695",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_bigfoot_187c48",
+        "to": "Alabama_d1f92d_white_thang_6d198b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_bigfoot_187c48",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_mobile_wolf_woman_47e695",
+        "to": "Alabama_d1f92d",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_mobile_wolf_woman_47e695",
+        "to": "Alabama_d1f92d_alabama_bigfoot_187c48",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_mobile_wolf_woman_47e695",
+        "to": "Alabama_d1f92d_black_panthers_9e5430",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_mobile_wolf_woman_47e695",
+        "to": "Alabama_d1f92d_white_thang_6d198b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_mobile_wolf_woman_47e695",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alabama_d1f92d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Arizona_104fd3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Arkansas_2f717f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "California_cf386e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Colorado_d28817",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Connecticut_ec4da3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Delaware_5861e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Florida_30c2d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Georgia_9113c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Hawaii_a1be95",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Idaho_18334c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Illinois_31b9d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Indiana_5d00be",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Iowa_08a48b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Kansas_48303f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Kentucky_e3b665",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Louisiana_b158e0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Maine_8dc024",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Maryland_1ac107",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Massachusetts_d42990",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Michigan_5110b3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Minnesota_60590f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Mississippi_cba267",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Missouri_d961c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Montana_8d274f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Nebraska_e9c60b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Nevada_b93191",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_Hampshire_824569",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_Jersey_18255a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_Mexico_45551f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_York_c7ef6c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "North_Carolina_cd988f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "North_Dakota_0b6838",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Ohio_d318c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Oklahoma_86daa4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Oregon_07719a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Pennsylvania_dff756",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Rhode_Island_b30a18",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "South_Carolina_11d001",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "South_Dakota_ad4a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Tennessee_1f4d4c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Texas_98125d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Utah_2ff606",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Vermont_835aef",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Virginia_027fb4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Washington_a27a66",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "West_Virginia_be1c72",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Wisconsin_52b248",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Wyoming_ed190c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_hairy_man_urayuli_9e2a02",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_iliamna_lake_monster_f93c9b",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_kooshdaa_kaa_42c28a",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_nantiinaq_port_chath_d8f8cd",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_kooshdaa_kaa_42c28a",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_kooshdaa_kaa_42c28a",
+        "to": "Alaska_7288f7_hairy_man_urayuli_9e2a02",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_kooshdaa_kaa_42c28a",
+        "to": "Alaska_7288f7_iliamna_lake_monster_f93c9b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_kooshdaa_kaa_42c28a",
+        "to": "Alaska_7288f7_nantiinaq_port_chath_d8f8cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_kooshdaa_kaa_42c28a",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_hairy_man_urayuli_9e2a02",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_hairy_man_urayuli_9e2a02",
+        "to": "Alaska_7288f7_iliamna_lake_monster_f93c9b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_hairy_man_urayuli_9e2a02",
+        "to": "Alaska_7288f7_kooshdaa_kaa_42c28a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_hairy_man_urayuli_9e2a02",
+        "to": "Alaska_7288f7_nantiinaq_port_chath_d8f8cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_hairy_man_urayuli_9e2a02",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_iliamna_lake_monster_f93c9b",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_iliamna_lake_monster_f93c9b",
+        "to": "Alaska_7288f7_hairy_man_urayuli_9e2a02",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_iliamna_lake_monster_f93c9b",
+        "to": "Alaska_7288f7_kooshdaa_kaa_42c28a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_iliamna_lake_monster_f93c9b",
+        "to": "Alaska_7288f7_nantiinaq_port_chath_d8f8cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_iliamna_lake_monster_f93c9b",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_nantiinaq_port_chath_d8f8cd",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_nantiinaq_port_chath_d8f8cd",
+        "to": "Alaska_7288f7_hairy_man_urayuli_9e2a02",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_nantiinaq_port_chath_d8f8cd",
+        "to": "Alaska_7288f7_iliamna_lake_monster_f93c9b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_nantiinaq_port_chath_d8f8cd",
+        "to": "Alaska_7288f7_kooshdaa_kaa_42c28a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_nantiinaq_port_chath_d8f8cd",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Alabama_d1f92d",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Alaska_7288f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arkansas_2f717f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "California_cf386e",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Colorado_d28817",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Connecticut_ec4da3",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Delaware_5861e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Florida_30c2d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Georgia_9113c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Hawaii_a1be95",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Idaho_18334c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Illinois_31b9d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Indiana_5d00be",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Iowa_08a48b",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Kansas_48303f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Kentucky_e3b665",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Louisiana_b158e0",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Maine_8dc024",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Maryland_1ac107",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Massachusetts_d42990",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Michigan_5110b3",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Minnesota_60590f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Mississippi_cba267",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Missouri_d961c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Montana_8d274f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Nebraska_e9c60b",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Nevada_b93191",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "New_Hampshire_824569",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "New_Jersey_18255a",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "New_Mexico_45551f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "New_York_c7ef6c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "North_Carolina_cd988f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "North_Dakota_0b6838",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Ohio_d318c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Oklahoma_86daa4",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Oregon_07719a",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Pennsylvania_dff756",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Rhode_Island_b30a18",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "South_Carolina_11d001",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "South_Dakota_ad4a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Tennessee_1f4d4c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Texas_98125d",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Utah_2ff606",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Vermont_835aef",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Virginia_027fb4",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Washington_a27a66",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "West_Virginia_be1c72",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Wisconsin_52b248",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Wyoming_ed190c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_arizona_wildlife_clu_fe17a1",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_index",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_mogollon_monster_15aa4d",
+        "type": "child"
+      }
+    ]
+  }
+}
