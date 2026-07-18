@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 250,
@@ -87,13 +87,79 @@
     ]
   },
   "selected": {
-    "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "site_visual_identity": "editorial-atlas",
+    "site_visual_identity_source": "local_inference",
+    "site_visual_identity_confidence": "medium",
+    "visual_profile": "editorial",
+    "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
-    "palette": "signal-cobalt",
-    "motif": "orbital"
+    "palette": "forge-slate",
+    "motif": "horizon"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 58,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 3700,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees",
+        "compact-grid suits hybrid graph/list layout"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 34,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 2320,
+      "reasons": [
+        "compact profile suits large hierarchies"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 28,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 2080,
+      "reasons": [
+        "atlas+dossier suits hybrid hierarchy"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 12,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 1280,
+      "reasons": []
+    }
+  ]
 }

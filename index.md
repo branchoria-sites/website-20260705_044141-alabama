@@ -171,14 +171,26 @@ map_view:
   items: 50
   map: /assets/maps/us.svg
   data: /assets/maps/us-states.json
+header:
+  og_image: /assets/images/New_Jersey_18255a-overview-social.jpg
+  preview_image: /assets/images/New_Jersey_18255a-overview-social.jpg
+image: /assets/images/New_Jersey_18255a-overview-social.jpg
 site_image_description: A pale shaggy figure stands at the edge of a dark Alabama pine forest near a rural road, with swamp mist and distant hills behind...
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="us-states" data-map-item-type="state" data-map-label="UFO and UAP USA states map" data-map-fallback-summary="Open this state file from the map." data-map-src="{{ 'assets/maps/us.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/us-states.json' | relative_url }}" data-map-fit="" data-map-initial-item="AZ" data-map-preview-preload="all">
-<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="us-states" data-map-item-type="state" data-map-label="Interactive USA states map" data-map-fallback-summary="Open this state file from the map." data-map-src="{{ 'assets/maps/us.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/us-states.json' | relative_url }}" data-map-fit="" data-map-initial-item="AZ" data-map-preview-preload="8">
+<nav class="interactive-map-region-nav" aria-label="Map regions">
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="midwest" aria-label="Focus map on Midwest"><span>Midwest</span><small>12</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="northeast" aria-label="Focus map on Northeast"><span>Northeast</span><small>9</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="south" aria-label="Focus map on South"><span>South</span><small>16</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="west" aria-label="Focus map on West"><span>West</span><small>13</small></button>
+</nav>
+<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
+<span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
+</div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Arizona_104fd3-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Arizona_104fd3-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">AZ</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="west" data-uap-world-map-region-focus="west" aria-label="Focus map on West">West</button>

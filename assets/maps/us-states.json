@@ -4,7 +4,7 @@
   "itemType": "state",
   "mapAsset": "us.svg",
   "dataAsset": "us-states.json",
-  "mapLabel": "UFO and UAP USA states map",
+  "mapLabel": "Interactive USA states map",
   "fallbackSummary": "Open this state file from the map.",
   "panelCopy": "Use the map to jump into a state file, or browse the full state list below.",
   "initialItemId": "AZ",
@@ -19,7 +19,7 @@
       "title": "Does Rhode Island Really Have Monsters?",
       "summary": "Rhode Island’s monster lore is small in number but surprisingly well suited to the state: a hairy “Big Rhodey” in the wooded west, a sea-serpent-style...",
       "url": "does-rhode-island-really-have-monsters/",
-      "image": "assets/images/Rhode_Island_b30a18-overview.webp",
+      "image": "assets/images/Rhode_Island_b30a18-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -33,7 +33,7 @@
       "title": "Nebraska's Strangest Monster Stories Explained",
       "summary": "Nebraska’s cryptid scene is not crowded with dozens of famous monsters.",
       "url": "nebraskas-strangest-monster-stories/",
-      "image": "assets/images/Nebraska_e9c60b-overview.webp",
+      "image": "assets/images/Nebraska_e9c60b-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -47,7 +47,7 @@
       "title": "What Counts as a Hawaiian Cryptid?",
       "summary": "Hawaii is not a classic Bigfoot-and-lake-monster state.",
       "url": "hawaii/",
-      "image": "assets/images/Hawaii_a1be95-overview.webp",
+      "image": "assets/images/Hawaii_a1be95-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -61,7 +61,7 @@
       "title": "What Haunts Alabama's Wild Places?",
       "summary": "Alabama’s cryptid tradition is strongest where two things meet: real wild country and very human storytelling.",
       "url": "what-haunts-alabamas-wild-places/",
-      "image": "assets/images/Alabama_d1f92d-overview.webp",
+      "image": "assets/images/Alabama_d1f92d-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -75,7 +75,7 @@
       "title": "What Haunts Arkansas' Rivers and Woods?",
       "summary": "Arkansas has one of the stronger state-level cryptid traditions in the American South because its monster stories are tied to very specific places: Fouke and...",
       "url": "what-haunts-arkansas-rivers-and-woods/",
-      "image": "assets/images/Arkansas_2f717f-overview.webp",
+      "image": "assets/images/Arkansas_2f717f-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -89,7 +89,7 @@
       "title": "What Haunts Colorado's Monster Country?",
       "summary": "Colorado’s monster lore is less about one single state mascot and more about the way the Rocky Mountains make ordinary wildlife, tourist jokes, old campfire...",
       "url": "what-haunts-colorados-monster-country/",
-      "image": "assets/images/Colorado_d28817-overview.webp",
+      "image": "assets/images/Colorado_d28817-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -103,7 +103,7 @@
       "title": "What Haunts Connecticut's Woods and Ridges?",
       "summary": "Connecticut’s cryptid map is small, wooded, and surprisingly busy.",
       "url": "what-haunts-connecticuts-woods-and/",
-      "image": "assets/images/Connecticut_ec4da3-overview.webp",
+      "image": "assets/images/Connecticut_ec4da3-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -117,7 +117,7 @@
       "title": "What Haunts Idaho's Lakes and Forests?",
       "summary": "Idaho’s monster folklore is less a single grand myth than a map of deep water, timbered mountains, old newspaper yarns and modern road-trip legends.",
       "url": "what-haunts-idahos-lakes-and-forests/",
-      "image": "assets/images/Idaho_18334c-overview.webp",
+      "image": "assets/images/Idaho_18334c-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -131,7 +131,7 @@
       "title": "What Haunts Indiana's Water and Woods?",
       "summary": "Indiana’s cryptid tradition is less about one great monster than a scatter of very Hoosier stories: a giant turtle in farm-country water, a sky “spook”...",
       "url": "what-haunts-indianas-water-and-woods/",
-      "image": "assets/images/Indiana_5d00be-overview.webp",
+      "image": "assets/images/Indiana_5d00be-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -145,7 +145,7 @@
       "title": "What Haunts Kentucky's Monster Map?",
       "summary": "Kentucky’s monster lore is less a single famous beast than a strange little ecosystem: Bigfoot reports in wooded counties, a dangerous goat-man legend at a...",
       "url": "what-haunts-kentuckys-monster-map/",
-      "image": "assets/images/Kentucky_e3b665-overview.webp",
+      "image": "assets/images/Kentucky_e3b665-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -159,7 +159,7 @@
       "title": "What Haunts Maryland's Roads, Mountains and Bay?",
       "summary": "Maryland’s monster tradition is unusually rich because its best-known creatures are not all the same kind of story.",
       "url": "what-haunts-marylands-roads-mountains/",
-      "image": "assets/images/Maryland_1ac107-overview.webp",
+      "image": "assets/images/Maryland_1ac107-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -173,7 +173,7 @@
       "title": "What Haunts New Jersey's Dark Pine Roads?",
       "summary": "New Jersey’s monster folklore is dominated by one creature: the Jersey Devil, the winged, hooved, shrieking thing said to haunt the Pine Barrens of South...",
       "url": "what-haunts-new-jerseys-dark-pine-roads/",
-      "image": "assets/images/New_Jersey_18255a-overview.webp",
+      "image": "assets/images/New_Jersey_18255a-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -187,7 +187,7 @@
       "title": "What Haunts North Carolina's Wild Places?",
       "summary": "North Carolina’s creature lore is not built around one monster but around a landscape: mountain ridges, old forests, coastal swamps, blackwater rivers,...",
       "url": "what-haunts-north-carolinas-wild-places/",
-      "image": "assets/images/North_Carolina_cd988f-overview.webp",
+      "image": "assets/images/North_Carolina_cd988f-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -201,7 +201,7 @@
       "title": "What Haunts North Dakota's Waters and Prairie?",
       "summary": "North Dakota’s cryptid tradition is quieter than the monster lore of the Pacific Northwest or the lake-monster tourism of Scotland, but it has a distinctive...",
       "url": "what-haunts-north-dakotas-waters-and/",
-      "image": "assets/images/North_Dakota_0b6838-overview.webp",
+      "image": "assets/images/North_Dakota_0b6838-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -215,7 +215,7 @@
       "title": "What Haunts South Carolina's Swamps and Roads?",
       "summary": "South Carolina’s monster folklore is led by one swamp-born celebrity: the Lizard Man of Scape Ore Swamp, the red-eyed, car-clawing creature said to have...",
       "url": "what-haunts-south-carolinas-swamps-and/",
-      "image": "assets/images/South_Carolina_11d001-overview.webp",
+      "image": "assets/images/South_Carolina_11d001-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -229,7 +229,7 @@
       "title": "What Haunts South Dakota's Wild Places?",
       "summary": "South Dakota’s monster lore is not built around one famous state mascot in the way New Jersey has the Jersey Devil or West Virginia has Mothman.",
       "url": "what-haunts-south-dakotas-wild-places/",
-      "image": "assets/images/South_Dakota_ad4a41-overview.webp",
+      "image": "assets/images/South_Dakota_ad4a41-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -243,7 +243,7 @@
       "title": "What Haunts the Prairie State?",
       "summary": "Illinois cryptid lore is less a single monster story than a map of the state’s landscapes: Mississippi River bluffs, muddy southern river bottoms, the...",
       "url": "illinois/",
-      "image": "assets/images/Illinois_31b9d2-overview.webp",
+      "image": "assets/images/Illinois_31b9d2-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -257,7 +257,7 @@
       "title": "What Haunts Vermont's Lakes and Mountains?",
       "summary": "Vermont’s monster tradition is dominated by one creature: Champ, the long-necked lake monster said to live in Lake Champlain.",
       "url": "what-haunts-vermonts-lakes-and-mountains/",
-      "image": "assets/images/Vermont_835aef-overview.webp",
+      "image": "assets/images/Vermont_835aef-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -271,7 +271,7 @@
       "title": "What Lurks in Delaware's Smallest Shadows?",
       "summary": "Delaware’s cryptid map is small, muddy and unusually honest about itself.",
       "url": "what-lurks-in-delawares-smallest-shadows/",
-      "image": "assets/images/Delaware_5861e4-overview.webp",
+      "image": "assets/images/Delaware_5861e4-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -285,7 +285,7 @@
       "title": "What Lurks in Georgia's Dark Water?",
       "summary": "Georgia’s monster map is not built around one neat creature.",
       "url": "what-lurks-in-georgias-dark-water/",
-      "image": "assets/images/Georgia_9113c6-overview.webp",
+      "image": "assets/images/Georgia_9113c6-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -299,7 +299,7 @@
       "title": "What Lurks in Louisiana's Monster Country?",
       "summary": "Louisiana’s monster lore is not built around one single creature.",
       "url": "what-lurks-in-louisianas-monster-country/",
-      "image": "assets/images/Louisiana_b158e0-overview.webp",
+      "image": "assets/images/Louisiana_b158e0-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -313,7 +313,7 @@
       "title": "What Lurks In Minnesota's Woods And Waters?",
       "summary": "Minnesota’s creature folklore is less a single “state monster” than a map of wild places: northern forests where Bigfoot stories gather around Remer and the...",
       "url": "what-lurks-in-minnesotas-woods-and/",
-      "image": "assets/images/Minnesota_60590f-overview.webp",
+      "image": "assets/images/Minnesota_60590f-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -327,7 +327,7 @@
       "title": "What Lurks in Missouri's Monster Country?",
       "summary": "Missouri’s cryptid tradition is strongest where wooded hills, river bluffs, old newspapers and small-town storytelling meet.",
       "url": "what-lurks-in-missouris-monster-country/",
-      "image": "assets/images/Missouri_d961c4-overview.webp",
+      "image": "assets/images/Missouri_d961c4-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -341,7 +341,7 @@
       "title": "What Lurks in Nevada's Strange Waters?",
       "summary": "Nevada’s cryptid map is not crowded with one dominant monster.",
       "url": "what-lurks-in-nevadas-strange-waters/",
-      "image": "assets/images/Nevada_b93191-overview.webp",
+      "image": "assets/images/Nevada_b93191-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -355,7 +355,7 @@
       "title": "What Lurks in New Hampshire's Wild Places?",
       "summary": "New Hampshire’s cryptid tradition is quieter than the monster folklore of some neighbouring states, but it has a distinct flavour: thin grey “Wood Devils” in...",
       "url": "what-lurks-in-new-hampshires-wild-places/",
-      "image": "assets/images/New_Hampshire_824569-overview.webp",
+      "image": "assets/images/New_Hampshire_824569-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -369,7 +369,7 @@
       "title": "What Lurks in Pennsylvania's Monster Country?",
       "summary": "Pennsylvania’s cryptid tradition is unusually rich because it sits at the meeting point of deep forest, old industrial landscapes, river valleys, tourist...",
       "url": "what-lurks-in-pennsylvanias-monster/",
-      "image": "assets/images/Pennsylvania_dff756-overview.webp",
+      "image": "assets/images/Pennsylvania_dff756-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -383,7 +383,7 @@
       "title": "What Lurks in Tennessee's Monster Lore?",
       "summary": "Tennessee’s monster lore is less a single “state cryptid” than a knot of Appalachian wildman stories, phantom cats, screaming things in the woods, Civil War...",
       "url": "what-lurks-in-tennessees-monster-lore/",
-      "image": "assets/images/Tennessee_1f4d4c-overview.webp",
+      "image": "assets/images/Tennessee_1f4d4c-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -397,7 +397,7 @@
       "title": "What Makes Arizona's Monsters Feel So Real?",
       "summary": "Arizona’s monster lore is not built around one neat “state cryptid”.",
       "url": "what-makes-arizonas-monsters-feel-so/",
-      "image": "assets/images/Arizona_104fd3-overview.webp",
+      "image": "assets/images/Arizona_104fd3-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -411,7 +411,7 @@
       "title": "What Makes Michigan Such Monster Country?",
       "summary": "Michigan’s monster folklore is unusually rich because the state gives strange stories so many places to hide: deep Upper Peninsula forests, black-water...",
       "url": "what-makes-michigan-such-monster-country/",
-      "image": "assets/images/Michigan_5110b3-overview.webp",
+      "image": "assets/images/Michigan_5110b3-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -425,7 +425,7 @@
       "title": "What Makes New York Monster Country?",
       "summary": "New York’s cryptid map is not built around one monster but around a pattern: big water, deep forest, old newspaper hoaxes, Indigenous and settler folklore,...",
       "url": "what-makes-new-york-monster-country/",
-      "image": "assets/images/New_York_c7ef6c-overview.webp",
+      "image": "assets/images/New_York_c7ef6c-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -439,7 +439,7 @@
       "title": "What Makes Ohio Such Good Monster Country?",
       "summary": "Ohio’s monster lore is not built around one creature so much as a crowded map: a frog-like figure on the Little Miami River, Bigfoot-style reports in wooded...",
       "url": "what-makes-ohio-such-good-monster/",
-      "image": "assets/images/Ohio_d318c1-overview.webp",
+      "image": "assets/images/Ohio_d318c1-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -453,7 +453,7 @@
       "title": "What Makes Texas Such Monster Country?",
       "summary": "Texas has one of America’s richest monster-story maps, not because it has one neat “state cryptid”, but because its landscapes produce different kinds of...",
       "url": "what-makes-texas-such-monster-country/",
-      "image": "assets/images/Texas_98125d-overview.webp",
+      "image": "assets/images/Texas_98125d-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -467,7 +467,7 @@
       "title": "What Makes Wisconsin Such Good Monster Country?",
       "summary": "Wisconsin’s monster tradition is unusually rich because it does not rest on one kind of creature.",
       "url": "what-makes-wisconsin-such-good-monster/",
-      "image": "assets/images/Wisconsin_52b248-overview.webp",
+      "image": "assets/images/Wisconsin_52b248-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -481,7 +481,7 @@
       "title": "What Monsters Does Montana Remember Best?",
       "summary": "Montana’s cryptid map is less a single monster story than a set of wilderness rumours shaped by mountains, lakes, wolves, bears, and long distances between...",
       "url": "what-monsters-does-montana-remember-best/",
-      "image": "assets/images/Montana_8d274f-overview.webp",
+      "image": "assets/images/Montana_8d274f-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -495,7 +495,7 @@
       "title": "What Monsters Does Virginia Claim?",
       "summary": "Virginia’s cryptid map is not built around one single monster.",
       "url": "what-monsters-does-virginia-claim/",
-      "image": "assets/images/Virginia_027fb4-overview.webp",
+      "image": "assets/images/Virginia_027fb4-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -509,7 +509,7 @@
       "title": "What Monsters Haunt Iowa's Rivers and Roads?",
       "summary": "Iowa’s monster folklore is not dominated by one tidy creature.",
       "url": "what-monsters-haunt-iowas-rivers-and/",
-      "image": "assets/images/Iowa_08a48b-overview.webp",
+      "image": "assets/images/Iowa_08a48b-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -523,7 +523,7 @@
       "title": "What Monsters Haunt Maine's Wild Places?",
       "summary": "Maine’s monster folklore is not built around one single, state-defining beast.",
       "url": "what-monsters-haunt-maines-wild-places/",
-      "image": "assets/images/Maine_8dc024-overview.webp",
+      "image": "assets/images/Maine_8dc024-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -537,7 +537,7 @@
       "title": "What Monsters Haunt Mississippi's Woods and Rivers?",
       "summary": "Mississippi’s cryptid map is quieter than some neighbouring Southern states, but it has a distinctive shape: a few stubborn local monsters, a much larger...",
       "url": "what-monsters-haunt-mississippis-woods/",
-      "image": "assets/images/Mississippi_cba267-overview.webp",
+      "image": "assets/images/Mississippi_cba267-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -551,7 +551,7 @@
       "title": "What Monsters Haunt New Mexico's Wild Places?",
       "summary": "New Mexico’s cryptid tradition is less about one official “state monster” than about a striking mix of desert-edge animal reports, mountain Bigfoot claims,...",
       "url": "what-monsters-haunt-new-mexicos-wild/",
-      "image": "assets/images/New_Mexico_45551f-overview.webp",
+      "image": "assets/images/New_Mexico_45551f-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -565,7 +565,7 @@
       "title": "What Monsters Haunt Oklahoma's Wild Places?",
       "summary": "Oklahoma’s best-known monster traditions are not one single legend, but a cluster of stories shaped by the state’s forests, reservoirs, tribal histories,...",
       "url": "what-monsters-haunt-oklahomas-wild/",
-      "image": "assets/images/Oklahoma_86daa4-overview.webp",
+      "image": "assets/images/Oklahoma_86daa4-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -579,7 +579,7 @@
       "title": "What Monsters Haunt Oregon's Wild Places?",
       "summary": "Oregon’s monster folklore is dominated by Bigfoot, but the state’s cryptid map is richer than a single large footprint in the mud.",
       "url": "what-monsters-haunt-oregons-wild-places/",
-      "image": "assets/images/Oregon_07719a-overview.webp",
+      "image": "assets/images/Oregon_07719a-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -593,7 +593,7 @@
       "title": "What Monsters Haunt Utah's Lakes and Mountains?",
       "summary": "Utah’s best-known monster tradition is not one creature but a landscape of strange-animal stories: lake serpents in Bear Lake and Utah Lake, a horse-headed...",
       "url": "what-monsters-haunt-utahs-lakes-and/",
-      "image": "assets/images/Utah_2ff606-overview.webp",
+      "image": "assets/images/Utah_2ff606-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -607,7 +607,7 @@
       "title": "What Monsters Lurk in Kansas Folklore?",
       "summary": "Kansas is not the first place many people imagine when they hear the word “cryptid”.",
       "url": "what-monsters-lurk-in-kansas-folklore/",
-      "image": "assets/images/Kansas_48303f-overview.webp",
+      "image": "assets/images/Kansas_48303f-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -621,7 +621,7 @@
       "title": "Why Alaska Keeps Making Monster Stories",
       "summary": "Alaska’s monster lore is unusually rich because the state gives strange stories room to breathe: vast forests, glacial bays, tundra, salmon rivers, deep...",
       "url": "why-alaska-keeps-making-monster-stories/",
-      "image": "assets/images/Alaska_7288f7-overview.webp",
+      "image": "assets/images/Alaska_7288f7-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -635,7 +635,7 @@
       "title": "Why California Became Bigfoot Country",
       "summary": "California’s cryptid tradition is not one monster story but a whole landscape of them: Bigfoot in the redwood country, lake serpents in Tahoe and Elizabeth...",
       "url": "why-california-became-bigfoot-country/",
-      "image": "assets/images/California_cf386e-overview.webp",
+      "image": "assets/images/California_cf386e-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -649,7 +649,7 @@
       "title": "Why Florida Makes Such Good Monster Country",
       "summary": "Florida’s monster map is dominated by the Skunk Ape: a foul-smelling, Bigfoot-like figure said to haunt the Everglades, Big Cypress, Myakka, Ochopee and...",
       "url": "why-florida-makes-such-good-monster/",
-      "image": "assets/images/Florida_30c2d0-overview.webp",
+      "image": "assets/images/Florida_30c2d0-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -663,7 +663,7 @@
       "title": "Why Massachusetts Makes Such Strange Monsters",
       "summary": "Massachusetts has one of the strangest cryptid maps in New England: a sea serpent off Gloucester, a pale humanoid in Dover, phantom cats on Cape Cod,...",
       "url": "why-massachusetts-makes-such-strange/",
-      "image": "assets/images/Massachusetts_d42990-overview.webp",
+      "image": "assets/images/Massachusetts_d42990-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -677,7 +677,7 @@
       "title": "Why Washington Became Bigfoot Country",
       "summary": "Washington is one of the strongest state-level homes of American monster folklore, but its cryptid reputation rests less on one “proof” than on a durable mix...",
       "url": "why-washington-became-bigfoot-country/",
-      "image": "assets/images/Washington_a27a66-overview.webp",
+      "image": "assets/images/Washington_a27a66-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -691,7 +691,7 @@
       "title": "Why West Virginia Became Monster Country",
       "summary": "West Virginia’s cryptid tradition is strongest where a strange report has a clear place, a memorable witness story and a landscape that feels capable of...",
       "url": "why-west-virginia-became-monster-country/",
-      "image": "assets/images/West_Virginia_be1c72-overview.webp",
+      "image": "assets/images/West_Virginia_be1c72-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -705,7 +705,7 @@
       "title": "Wyoming's Weirdest Beasts and Tall Tales",
       "summary": "Wyoming’s monster folklore is less crowded than that of some states, but it has one huge advantage: its best-known creature is genuinely rooted in a place, a...",
       "url": "wyomings-weirdest-beasts-and-tall-tales/",
-      "image": "assets/images/Wyoming_ed190c-overview.webp",
+      "image": "assets/images/Wyoming_ed190c-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     }
@@ -721,7 +721,7 @@
       "title": "Does Rhode Island Really Have Monsters?",
       "summary": "Rhode Island’s monster lore is small in number but surprisingly well suited to the state: a hairy “Big Rhodey” in the wooded west, a sea-serpent-style...",
       "url": "does-rhode-island-really-have-monsters/",
-      "image": "assets/images/Rhode_Island_b30a18-overview.webp",
+      "image": "assets/images/Rhode_Island_b30a18-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -735,7 +735,7 @@
       "title": "Nebraska's Strangest Monster Stories Explained",
       "summary": "Nebraska’s cryptid scene is not crowded with dozens of famous monsters.",
       "url": "nebraskas-strangest-monster-stories/",
-      "image": "assets/images/Nebraska_e9c60b-overview.webp",
+      "image": "assets/images/Nebraska_e9c60b-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -749,7 +749,7 @@
       "title": "What Counts as a Hawaiian Cryptid?",
       "summary": "Hawaii is not a classic Bigfoot-and-lake-monster state.",
       "url": "hawaii/",
-      "image": "assets/images/Hawaii_a1be95-overview.webp",
+      "image": "assets/images/Hawaii_a1be95-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -763,7 +763,7 @@
       "title": "What Haunts Alabama's Wild Places?",
       "summary": "Alabama’s cryptid tradition is strongest where two things meet: real wild country and very human storytelling.",
       "url": "what-haunts-alabamas-wild-places/",
-      "image": "assets/images/Alabama_d1f92d-overview.webp",
+      "image": "assets/images/Alabama_d1f92d-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -777,7 +777,7 @@
       "title": "What Haunts Arkansas' Rivers and Woods?",
       "summary": "Arkansas has one of the stronger state-level cryptid traditions in the American South because its monster stories are tied to very specific places: Fouke and...",
       "url": "what-haunts-arkansas-rivers-and-woods/",
-      "image": "assets/images/Arkansas_2f717f-overview.webp",
+      "image": "assets/images/Arkansas_2f717f-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -791,7 +791,7 @@
       "title": "What Haunts Colorado's Monster Country?",
       "summary": "Colorado’s monster lore is less about one single state mascot and more about the way the Rocky Mountains make ordinary wildlife, tourist jokes, old campfire...",
       "url": "what-haunts-colorados-monster-country/",
-      "image": "assets/images/Colorado_d28817-overview.webp",
+      "image": "assets/images/Colorado_d28817-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -805,7 +805,7 @@
       "title": "What Haunts Connecticut's Woods and Ridges?",
       "summary": "Connecticut’s cryptid map is small, wooded, and surprisingly busy.",
       "url": "what-haunts-connecticuts-woods-and/",
-      "image": "assets/images/Connecticut_ec4da3-overview.webp",
+      "image": "assets/images/Connecticut_ec4da3-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -819,7 +819,7 @@
       "title": "What Haunts Idaho's Lakes and Forests?",
       "summary": "Idaho’s monster folklore is less a single grand myth than a map of deep water, timbered mountains, old newspaper yarns and modern road-trip legends.",
       "url": "what-haunts-idahos-lakes-and-forests/",
-      "image": "assets/images/Idaho_18334c-overview.webp",
+      "image": "assets/images/Idaho_18334c-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -833,7 +833,7 @@
       "title": "What Haunts Indiana's Water and Woods?",
       "summary": "Indiana’s cryptid tradition is less about one great monster than a scatter of very Hoosier stories: a giant turtle in farm-country water, a sky “spook”...",
       "url": "what-haunts-indianas-water-and-woods/",
-      "image": "assets/images/Indiana_5d00be-overview.webp",
+      "image": "assets/images/Indiana_5d00be-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -847,7 +847,7 @@
       "title": "What Haunts Kentucky's Monster Map?",
       "summary": "Kentucky’s monster lore is less a single famous beast than a strange little ecosystem: Bigfoot reports in wooded counties, a dangerous goat-man legend at a...",
       "url": "what-haunts-kentuckys-monster-map/",
-      "image": "assets/images/Kentucky_e3b665-overview.webp",
+      "image": "assets/images/Kentucky_e3b665-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -861,7 +861,7 @@
       "title": "What Haunts Maryland's Roads, Mountains and Bay?",
       "summary": "Maryland’s monster tradition is unusually rich because its best-known creatures are not all the same kind of story.",
       "url": "what-haunts-marylands-roads-mountains/",
-      "image": "assets/images/Maryland_1ac107-overview.webp",
+      "image": "assets/images/Maryland_1ac107-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -875,7 +875,7 @@
       "title": "What Haunts New Jersey's Dark Pine Roads?",
       "summary": "New Jersey’s monster folklore is dominated by one creature: the Jersey Devil, the winged, hooved, shrieking thing said to haunt the Pine Barrens of South...",
       "url": "what-haunts-new-jerseys-dark-pine-roads/",
-      "image": "assets/images/New_Jersey_18255a-overview.webp",
+      "image": "assets/images/New_Jersey_18255a-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -889,7 +889,7 @@
       "title": "What Haunts North Carolina's Wild Places?",
       "summary": "North Carolina’s creature lore is not built around one monster but around a landscape: mountain ridges, old forests, coastal swamps, blackwater rivers,...",
       "url": "what-haunts-north-carolinas-wild-places/",
-      "image": "assets/images/North_Carolina_cd988f-overview.webp",
+      "image": "assets/images/North_Carolina_cd988f-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -903,7 +903,7 @@
       "title": "What Haunts North Dakota's Waters and Prairie?",
       "summary": "North Dakota’s cryptid tradition is quieter than the monster lore of the Pacific Northwest or the lake-monster tourism of Scotland, but it has a distinctive...",
       "url": "what-haunts-north-dakotas-waters-and/",
-      "image": "assets/images/North_Dakota_0b6838-overview.webp",
+      "image": "assets/images/North_Dakota_0b6838-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -917,7 +917,7 @@
       "title": "What Haunts South Carolina's Swamps and Roads?",
       "summary": "South Carolina’s monster folklore is led by one swamp-born celebrity: the Lizard Man of Scape Ore Swamp, the red-eyed, car-clawing creature said to have...",
       "url": "what-haunts-south-carolinas-swamps-and/",
-      "image": "assets/images/South_Carolina_11d001-overview.webp",
+      "image": "assets/images/South_Carolina_11d001-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -931,7 +931,7 @@
       "title": "What Haunts South Dakota's Wild Places?",
       "summary": "South Dakota’s monster lore is not built around one famous state mascot in the way New Jersey has the Jersey Devil or West Virginia has Mothman.",
       "url": "what-haunts-south-dakotas-wild-places/",
-      "image": "assets/images/South_Dakota_ad4a41-overview.webp",
+      "image": "assets/images/South_Dakota_ad4a41-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -945,7 +945,7 @@
       "title": "What Haunts the Prairie State?",
       "summary": "Illinois cryptid lore is less a single monster story than a map of the state’s landscapes: Mississippi River bluffs, muddy southern river bottoms, the...",
       "url": "illinois/",
-      "image": "assets/images/Illinois_31b9d2-overview.webp",
+      "image": "assets/images/Illinois_31b9d2-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -959,7 +959,7 @@
       "title": "What Haunts Vermont's Lakes and Mountains?",
       "summary": "Vermont’s monster tradition is dominated by one creature: Champ, the long-necked lake monster said to live in Lake Champlain.",
       "url": "what-haunts-vermonts-lakes-and-mountains/",
-      "image": "assets/images/Vermont_835aef-overview.webp",
+      "image": "assets/images/Vermont_835aef-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -973,7 +973,7 @@
       "title": "What Lurks in Delaware's Smallest Shadows?",
       "summary": "Delaware’s cryptid map is small, muddy and unusually honest about itself.",
       "url": "what-lurks-in-delawares-smallest-shadows/",
-      "image": "assets/images/Delaware_5861e4-overview.webp",
+      "image": "assets/images/Delaware_5861e4-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -987,7 +987,7 @@
       "title": "What Lurks in Georgia's Dark Water?",
       "summary": "Georgia’s monster map is not built around one neat creature.",
       "url": "what-lurks-in-georgias-dark-water/",
-      "image": "assets/images/Georgia_9113c6-overview.webp",
+      "image": "assets/images/Georgia_9113c6-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -1001,7 +1001,7 @@
       "title": "What Lurks in Louisiana's Monster Country?",
       "summary": "Louisiana’s monster lore is not built around one single creature.",
       "url": "what-lurks-in-louisianas-monster-country/",
-      "image": "assets/images/Louisiana_b158e0-overview.webp",
+      "image": "assets/images/Louisiana_b158e0-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -1015,7 +1015,7 @@
       "title": "What Lurks In Minnesota's Woods And Waters?",
       "summary": "Minnesota’s creature folklore is less a single “state monster” than a map of wild places: northern forests where Bigfoot stories gather around Remer and the...",
       "url": "what-lurks-in-minnesotas-woods-and/",
-      "image": "assets/images/Minnesota_60590f-overview.webp",
+      "image": "assets/images/Minnesota_60590f-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -1029,7 +1029,7 @@
       "title": "What Lurks in Missouri's Monster Country?",
       "summary": "Missouri’s cryptid tradition is strongest where wooded hills, river bluffs, old newspapers and small-town storytelling meet.",
       "url": "what-lurks-in-missouris-monster-country/",
-      "image": "assets/images/Missouri_d961c4-overview.webp",
+      "image": "assets/images/Missouri_d961c4-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -1043,7 +1043,7 @@
       "title": "What Lurks in Nevada's Strange Waters?",
       "summary": "Nevada’s cryptid map is not crowded with one dominant monster.",
       "url": "what-lurks-in-nevadas-strange-waters/",
-      "image": "assets/images/Nevada_b93191-overview.webp",
+      "image": "assets/images/Nevada_b93191-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -1057,7 +1057,7 @@
       "title": "What Lurks in New Hampshire's Wild Places?",
       "summary": "New Hampshire’s cryptid tradition is quieter than the monster folklore of some neighbouring states, but it has a distinct flavour: thin grey “Wood Devils” in...",
       "url": "what-lurks-in-new-hampshires-wild-places/",
-      "image": "assets/images/New_Hampshire_824569-overview.webp",
+      "image": "assets/images/New_Hampshire_824569-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -1071,7 +1071,7 @@
       "title": "What Lurks in Pennsylvania's Monster Country?",
       "summary": "Pennsylvania’s cryptid tradition is unusually rich because it sits at the meeting point of deep forest, old industrial landscapes, river valleys, tourist...",
       "url": "what-lurks-in-pennsylvanias-monster/",
-      "image": "assets/images/Pennsylvania_dff756-overview.webp",
+      "image": "assets/images/Pennsylvania_dff756-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -1085,7 +1085,7 @@
       "title": "What Lurks in Tennessee's Monster Lore?",
       "summary": "Tennessee’s monster lore is less a single “state cryptid” than a knot of Appalachian wildman stories, phantom cats, screaming things in the woods, Civil War...",
       "url": "what-lurks-in-tennessees-monster-lore/",
-      "image": "assets/images/Tennessee_1f4d4c-overview.webp",
+      "image": "assets/images/Tennessee_1f4d4c-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -1099,7 +1099,7 @@
       "title": "What Makes Arizona's Monsters Feel So Real?",
       "summary": "Arizona’s monster lore is not built around one neat “state cryptid”.",
       "url": "what-makes-arizonas-monsters-feel-so/",
-      "image": "assets/images/Arizona_104fd3-overview.webp",
+      "image": "assets/images/Arizona_104fd3-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -1113,7 +1113,7 @@
       "title": "What Makes Michigan Such Monster Country?",
       "summary": "Michigan’s monster folklore is unusually rich because the state gives strange stories so many places to hide: deep Upper Peninsula forests, black-water...",
       "url": "what-makes-michigan-such-monster-country/",
-      "image": "assets/images/Michigan_5110b3-overview.webp",
+      "image": "assets/images/Michigan_5110b3-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -1127,7 +1127,7 @@
       "title": "What Makes New York Monster Country?",
       "summary": "New York’s cryptid map is not built around one monster but around a pattern: big water, deep forest, old newspaper hoaxes, Indigenous and settler folklore,...",
       "url": "what-makes-new-york-monster-country/",
-      "image": "assets/images/New_York_c7ef6c-overview.webp",
+      "image": "assets/images/New_York_c7ef6c-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -1141,7 +1141,7 @@
       "title": "What Makes Ohio Such Good Monster Country?",
       "summary": "Ohio’s monster lore is not built around one creature so much as a crowded map: a frog-like figure on the Little Miami River, Bigfoot-style reports in wooded...",
       "url": "what-makes-ohio-such-good-monster/",
-      "image": "assets/images/Ohio_d318c1-overview.webp",
+      "image": "assets/images/Ohio_d318c1-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -1155,7 +1155,7 @@
       "title": "What Makes Texas Such Monster Country?",
       "summary": "Texas has one of America’s richest monster-story maps, not because it has one neat “state cryptid”, but because its landscapes produce different kinds of...",
       "url": "what-makes-texas-such-monster-country/",
-      "image": "assets/images/Texas_98125d-overview.webp",
+      "image": "assets/images/Texas_98125d-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -1169,7 +1169,7 @@
       "title": "What Makes Wisconsin Such Good Monster Country?",
       "summary": "Wisconsin’s monster tradition is unusually rich because it does not rest on one kind of creature.",
       "url": "what-makes-wisconsin-such-good-monster/",
-      "image": "assets/images/Wisconsin_52b248-overview.webp",
+      "image": "assets/images/Wisconsin_52b248-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -1183,7 +1183,7 @@
       "title": "What Monsters Does Montana Remember Best?",
       "summary": "Montana’s cryptid map is less a single monster story than a set of wilderness rumours shaped by mountains, lakes, wolves, bears, and long distances between...",
       "url": "what-monsters-does-montana-remember-best/",
-      "image": "assets/images/Montana_8d274f-overview.webp",
+      "image": "assets/images/Montana_8d274f-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -1197,7 +1197,7 @@
       "title": "What Monsters Does Virginia Claim?",
       "summary": "Virginia’s cryptid map is not built around one single monster.",
       "url": "what-monsters-does-virginia-claim/",
-      "image": "assets/images/Virginia_027fb4-overview.webp",
+      "image": "assets/images/Virginia_027fb4-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -1211,7 +1211,7 @@
       "title": "What Monsters Haunt Iowa's Rivers and Roads?",
       "summary": "Iowa’s monster folklore is not dominated by one tidy creature.",
       "url": "what-monsters-haunt-iowas-rivers-and/",
-      "image": "assets/images/Iowa_08a48b-overview.webp",
+      "image": "assets/images/Iowa_08a48b-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -1225,7 +1225,7 @@
       "title": "What Monsters Haunt Maine's Wild Places?",
       "summary": "Maine’s monster folklore is not built around one single, state-defining beast.",
       "url": "what-monsters-haunt-maines-wild-places/",
-      "image": "assets/images/Maine_8dc024-overview.webp",
+      "image": "assets/images/Maine_8dc024-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -1239,7 +1239,7 @@
       "title": "What Monsters Haunt Mississippi's Woods and Rivers?",
       "summary": "Mississippi’s cryptid map is quieter than some neighbouring Southern states, but it has a distinctive shape: a few stubborn local monsters, a much larger...",
       "url": "what-monsters-haunt-mississippis-woods/",
-      "image": "assets/images/Mississippi_cba267-overview.webp",
+      "image": "assets/images/Mississippi_cba267-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -1253,7 +1253,7 @@
       "title": "What Monsters Haunt New Mexico's Wild Places?",
       "summary": "New Mexico’s cryptid tradition is less about one official “state monster” than about a striking mix of desert-edge animal reports, mountain Bigfoot claims,...",
       "url": "what-monsters-haunt-new-mexicos-wild/",
-      "image": "assets/images/New_Mexico_45551f-overview.webp",
+      "image": "assets/images/New_Mexico_45551f-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -1267,7 +1267,7 @@
       "title": "What Monsters Haunt Oklahoma's Wild Places?",
       "summary": "Oklahoma’s best-known monster traditions are not one single legend, but a cluster of stories shaped by the state’s forests, reservoirs, tribal histories,...",
       "url": "what-monsters-haunt-oklahomas-wild/",
-      "image": "assets/images/Oklahoma_86daa4-overview.webp",
+      "image": "assets/images/Oklahoma_86daa4-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -1281,7 +1281,7 @@
       "title": "What Monsters Haunt Oregon's Wild Places?",
       "summary": "Oregon’s monster folklore is dominated by Bigfoot, but the state’s cryptid map is richer than a single large footprint in the mud.",
       "url": "what-monsters-haunt-oregons-wild-places/",
-      "image": "assets/images/Oregon_07719a-overview.webp",
+      "image": "assets/images/Oregon_07719a-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -1295,7 +1295,7 @@
       "title": "What Monsters Haunt Utah's Lakes and Mountains?",
       "summary": "Utah’s best-known monster tradition is not one creature but a landscape of strange-animal stories: lake serpents in Bear Lake and Utah Lake, a horse-headed...",
       "url": "what-monsters-haunt-utahs-lakes-and/",
-      "image": "assets/images/Utah_2ff606-overview.webp",
+      "image": "assets/images/Utah_2ff606-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -1309,7 +1309,7 @@
       "title": "What Monsters Lurk in Kansas Folklore?",
       "summary": "Kansas is not the first place many people imagine when they hear the word “cryptid”.",
       "url": "what-monsters-lurk-in-kansas-folklore/",
-      "image": "assets/images/Kansas_48303f-overview.webp",
+      "image": "assets/images/Kansas_48303f-overview-social.jpg",
       "pageCount": 5,
       "region": "Midwest"
     },
@@ -1323,7 +1323,7 @@
       "title": "Why Alaska Keeps Making Monster Stories",
       "summary": "Alaska’s monster lore is unusually rich because the state gives strange stories room to breathe: vast forests, glacial bays, tundra, salmon rivers, deep...",
       "url": "why-alaska-keeps-making-monster-stories/",
-      "image": "assets/images/Alaska_7288f7-overview.webp",
+      "image": "assets/images/Alaska_7288f7-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -1337,7 +1337,7 @@
       "title": "Why California Became Bigfoot Country",
       "summary": "California’s cryptid tradition is not one monster story but a whole landscape of them: Bigfoot in the redwood country, lake serpents in Tahoe and Elizabeth...",
       "url": "why-california-became-bigfoot-country/",
-      "image": "assets/images/California_cf386e-overview.webp",
+      "image": "assets/images/California_cf386e-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -1351,7 +1351,7 @@
       "title": "Why Florida Makes Such Good Monster Country",
       "summary": "Florida’s monster map is dominated by the Skunk Ape: a foul-smelling, Bigfoot-like figure said to haunt the Everglades, Big Cypress, Myakka, Ochopee and...",
       "url": "why-florida-makes-such-good-monster/",
-      "image": "assets/images/Florida_30c2d0-overview.webp",
+      "image": "assets/images/Florida_30c2d0-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -1365,7 +1365,7 @@
       "title": "Why Massachusetts Makes Such Strange Monsters",
       "summary": "Massachusetts has one of the strangest cryptid maps in New England: a sea serpent off Gloucester, a pale humanoid in Dover, phantom cats on Cape Cod,...",
       "url": "why-massachusetts-makes-such-strange/",
-      "image": "assets/images/Massachusetts_d42990-overview.webp",
+      "image": "assets/images/Massachusetts_d42990-overview-social.jpg",
       "pageCount": 5,
       "region": "Northeast"
     },
@@ -1379,7 +1379,7 @@
       "title": "Why Washington Became Bigfoot Country",
       "summary": "Washington is one of the strongest state-level homes of American monster folklore, but its cryptid reputation rests less on one “proof” than on a durable mix...",
       "url": "why-washington-became-bigfoot-country/",
-      "image": "assets/images/Washington_a27a66-overview.webp",
+      "image": "assets/images/Washington_a27a66-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     },
@@ -1393,7 +1393,7 @@
       "title": "Why West Virginia Became Monster Country",
       "summary": "West Virginia’s cryptid tradition is strongest where a strange report has a clear place, a memorable witness story and a landscape that feels capable of...",
       "url": "why-west-virginia-became-monster-country/",
-      "image": "assets/images/West_Virginia_be1c72-overview.webp",
+      "image": "assets/images/West_Virginia_be1c72-overview-social.jpg",
       "pageCount": 5,
       "region": "South"
     },
@@ -1407,7 +1407,7 @@
       "title": "Wyoming's Weirdest Beasts and Tall Tales",
       "summary": "Wyoming’s monster folklore is less crowded than that of some states, but it has one huge advantage: its best-known creature is genuinely rooted in a place, a...",
       "url": "wyomings-weirdest-beasts-and-tall-tales/",
-      "image": "assets/images/Wyoming_ed190c-overview.webp",
+      "image": "assets/images/Wyoming_ed190c-overview-social.jpg",
       "pageCount": 5,
       "region": "West"
     }
