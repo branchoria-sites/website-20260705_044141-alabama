@@ -375,89 +375,89 @@ That does not make the Rougarou a proven animal, and it should not be treated as
 As a Louisiana cryptid, the Rougarou is therefore unusual. Its value is not in a trail-camera image or a plaster cast. It is in the way a monster can carry a community’s rules, fears, humour and landscape memory. The bayou werewolf still haunts Louisiana because it was never only about a beast in the swamp. It was about what might happen when a person crossed the line.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Does the Rougarou Still Haunt Louisiana?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Does the Rougarou Still Haunt Louisiana?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Gumbo+ya-ya+by+Edward+Dreyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gumbo ya-ya on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Gumbo+ya-ya+by+Edward+Dreyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gumbo ya-ya">Gumbo ya-ya</a>
-</h4>
-<p class="fr-book-author">By Edward Dreyer, Lyle Saxon et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Gumbo+ya-ya+Edward+Dreyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gumbo ya-ya on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Gumbo+ya-ya+Edward+Dreyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gumbo ya-ya">Gumbo ya-ya</a>
+        </h4>
+        <p class="fr-book-author">By Edward Dreyer, Lyle Saxon et al.</p>
         
-<p class="fr-book-desc">Essential background for Rougarou traditions and folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Gumbo+ya-ya+by+Edward+Dreyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Essential background for Rougarou traditions and folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Gumbo+ya-ya+Edward+Dreyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cajun+Folktales+Barry+Jean+Ancelet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cajun Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Cajun+Folktales+Barry+Jean+Ancelet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cajun Folktales">Cajun Folktales</a>
-</h4>
-<p class="fr-book-author">By Barry Jean Ancelet</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Werewolf+Book+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Werewolf Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=P1cs7mq_kxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Werewolf Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Werewolf+Book+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Werewolf Book">The Werewolf Book</a>
+        </h4>
+        <p class="fr-book-author">By Brad Steiger</p>
         
-<p class="fr-book-desc">Explains the cultural setting from which Rougarou stories emerge.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Cajun+Folktales+Barry+Jean+Ancelet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Connects Rougarou traditions to wider werewolf mythology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Werewolf+Book+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Swamp+Monsters%2C+Bigfoot+and+Louisiana+Legends+Chad+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Swamp Monsters, Bigfoot and Louisiana Legends on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Swamp+Monsters%2C+Bigfoot+and+Louisiana+Legends+Chad+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Swamp Monsters, Bigfoot and Louisiana Legends">Swamp Monsters, Bigfoot and Louisiana Legends</a>
-</h4>
-<p class="fr-book-author">By Chad Lewis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cajun+Folktales+Barry+Jean+Ancelet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cajun Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cajun+Folktales+Barry+Jean+Ancelet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cajun Folktales">Cajun Folktales</a>
+        </h4>
+        <p class="fr-book-author">By Barry Jean Ancelet</p>
         
-<p class="fr-book-desc">Includes discussion of famous Louisiana creatures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Swamp+Monsters%2C+Bigfoot+and+Louisiana+Legends+Chad+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the cultural setting from which Rougarou stories emerge.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cajun+Folktales+Barry+Jean+Ancelet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Werewolf+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Werewolf Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=P1cs7mq_kxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Werewolf Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Werewolf+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Werewolf Book">The Werewolf Book</a>
-</h4>
-<p class="fr-book-author">By Brad Steiger</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Swamp+Monsters%2C+Bigfoot+and+Louisiana+Legends+Chad+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Swamp Monsters, Bigfoot and Louisiana Legends on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Swamp+Monsters%2C+Bigfoot+and+Louisiana+Legends+Chad+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Swamp Monsters, Bigfoot and Louisiana Legends">Swamp Monsters, Bigfoot and Louisiana Legends</a>
+        </h4>
+        <p class="fr-book-author">By Chad Lewis</p>
         
-<p class="fr-book-desc">Connects Rougarou traditions to wider werewolf mythology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Werewolf+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes discussion of famous Louisiana creatures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Swamp+Monsters%2C+Bigfoot+and+Louisiana+Legends+Chad+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Gumbo+ya+ya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gumbo ya ya</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cajun+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cajun Folktales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Swamp+Monsters%2C+Bigfoot+and+Louisiana+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Swamp Monsters, Bigfoot and Louisiana Legends</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Gumbo+ya+ya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gumbo ya ya</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Werewolf+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Werewolf Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cajun+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cajun Folktales</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
