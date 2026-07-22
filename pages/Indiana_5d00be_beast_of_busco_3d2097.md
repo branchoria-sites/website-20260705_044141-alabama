@@ -375,33 +375,16 @@ That is why the Beast of Busco is still the cleanest emblem of Indiana’s cheer
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weird+U.S.+Mark+Moran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weird U.S. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dXtBIvwPN84C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weird U.S." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Cryptids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j8DVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Cryptids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weird+U.S.+Mark+Moran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird U.S.">Weird U.S.</a>
+          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a>
         </h4>
-        <p class="fr-book-author">By Mark Moran, Mark Sceurman</p>
-        
-        <p class="fr-book-desc">Frequently cited source for the Beast of Busco legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weird+U.S.+Mark+Moran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By J. W. Ocker</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+of+the+Midwest+Jessica+Freeburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters of the Midwest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=42gcDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Monsters of the Midwest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monsters+of+the+Midwest+Jessica+Freeburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of the Midwest">Monsters of the Midwest</a>
-        </h4>
-        <p class="fr-book-author">By Jessica Freeburg, Natalie Fowler</p>
-        
-        <p class="fr-book-desc">Covers Midwestern cryptid traditions including lake and animal legends.</p>
+        <p class="fr-book-desc">Places the Busco turtle story within national folklore.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monsters+of+the+Midwest+Jessica+Freeburg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -415,7 +398,7 @@ That is why the Beast of Busco is still the cleanest emblem of Indiana’s cheer
           <a href="https://www.amazon.com/s?k=American+Monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Monsters">American Monsters</a>
         </h4>
         <p class="fr-book-author">By Linda S. Godfrey</p>
-        
+
         <p class="fr-book-desc">Provides context for enduring local monster legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,16 +409,33 @@ That is why the Beast of Busco is still the cleanest emblem of Indiana’s cheer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Cryptids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j8DVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Cryptids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hidden+Animals+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hidden Animals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AE7EEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hidden Animals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a>
+          <a href="https://www.amazon.com/s?k=Hidden+Animals+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hidden Animals">Hidden Animals</a>
         </h4>
-        <p class="fr-book-author">By J. W. Ocker</p>
-        
-        <p class="fr-book-desc">Places the Busco turtle story within national folklore.</p>
+        <p class="fr-book-author">By Michael Newton</p>
+
+        <p class="fr-book-desc">Explores reports of unusual animals and cryptids.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Hidden+Animals+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+of+the+Midwest+Jessica+Freeburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters of the Midwest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8818678-M.jpg" alt="Cover for Monsters of the Midwest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Monsters+of+the+Midwest+Jessica+Freeburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of the Midwest">Monsters of the Midwest</a>
+        </h4>
+        <p class="fr-book-author">By Jessica Freeburg, Natalie Fowler</p>
+
+        <p class="fr-book-desc">Covers Midwestern cryptid traditions including lake and animal legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Monsters+of+the+Midwest+Jessica+Freeburg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -443,7 +443,7 @@ That is why the Beast of Busco is still the cleanest emblem of Indiana’s cheer
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weird+U.S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weird U.S.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+of+the+Midwest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters of the Midwest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Monsters</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hidden+Animals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hidden Animals</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

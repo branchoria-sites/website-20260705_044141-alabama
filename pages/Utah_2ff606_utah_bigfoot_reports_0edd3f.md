@@ -396,27 +396,10 @@ That is why Utah’s Bigfoot tradition belongs beside the state’s lake monster
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch: Legend Meets Science">Sasquatch: Legend Meets Science</a>
         </h4>
         <p class="fr-book-author">By Jeff Meldrum</p>
-        
+
         <p class="fr-book-desc">Directly addresses Bigfoot evidence and interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=O_ZbRQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
-        </h4>
-        <p class="fr-book-author">By Joshua Blu Buhs</p>
-        
-        <p class="fr-book-desc">Explains how regional Bigfoot traditions develop and spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -430,7 +413,7 @@ That is why Utah’s Bigfoot tradition belongs beside the state’s lake monster
           <a href="https://www.amazon.com/s?k=The+Locals+Thom+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Locals">The Locals</a>
         </h4>
         <p class="fr-book-author">By Thom Powell</p>
-        
+
         <p class="fr-book-desc">Explores witness reports similar to those found in Utah.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Locals+Thom+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +430,7 @@ That is why Utah’s Bigfoot tradition belongs beside the state’s lake monster
           <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
+
         <p class="fr-book-desc">Places Utah Bigfoot reports within a global mystery-primate tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,9 +439,26 @@ That is why Utah’s Bigfoot tradition belongs beside the state’s lake monster
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Exposed+David+J.+Daegling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot Exposed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WfCxAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bigfoot Exposed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bigfoot+Exposed+David+J.+Daegling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot Exposed">Bigfoot Exposed</a>
+        </h4>
+        <p class="fr-book-author">By David J. Daegling</p>
+
+        <p class="fr-book-desc">Investigates misidentification, folklore, and evidence claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bigfoot+Exposed+David+J.+Daegling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Locals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Locals</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Locals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Locals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

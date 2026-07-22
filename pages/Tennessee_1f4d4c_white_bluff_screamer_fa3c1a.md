@@ -362,16 +362,16 @@ The most evidence-aware reading is therefore also the most interesting one: the 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z2UlKsvrX60C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mysterious America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Cryptids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j8DVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Cryptids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious America">Mysterious America</a>
+          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a>
         </h4>
-        <p class="fr-book-author">By Loren Coleman</p>
-        
-        <p class="fr-book-desc">Frames small-town creature flaps and strange-sound legends within American forteana.</p>
+        <p class="fr-book-author">By J. W. Ocker</p>
+
+        <p class="fr-book-desc">Broadens a very local Screamer page into the wider American cryptid-reading lane.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -385,7 +385,7 @@ The most evidence-aware reading is therefore also the most interesting one: the 
           <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Gives readers background on mystery animals, phantom cats and monster-report patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,8 +402,8 @@ The most evidence-aware reading is therefore also the most interesting one: the 
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Midwest+Jessica+Freeburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of the Midwest">Monsters of the Midwest</a>
         </h4>
         <p class="fr-book-author">By Jessica Freeburg, Natalie Fowler</p>
-        
-        <p class="fr-book-desc">Keeps the Screamer within Southern monster and warning-tale traditions.</p>
+
+        <p class="fr-book-desc">Is scaring yourself silly by telling creepy tales around a campfire your idea of a good time? Paranormal investigators Jessica Freeburg a...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Midwest+Jessica+Freeburg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -419,7 +419,7 @@ The most evidence-aware reading is therefore also the most interesting one: the 
           <a href="https://www.amazon.com/s?k=Spooky+Tennessee+S.+E.+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spooky Tennessee">Spooky Tennessee</a>
         </h4>
         <p class="fr-book-author">By S. E. Schlosser</p>
-        
+
         <p class="fr-book-desc">Supports the Tennessee spooky-story lane around woods, screams and rural legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spooky+Tennessee+S.+E.+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ The most evidence-aware reading is therefore also the most interesting one: the 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+of+the+Midwest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters of the Midwest</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+of+the+Midwest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters of the Midwest</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

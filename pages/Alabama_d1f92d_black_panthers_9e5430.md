@@ -405,7 +405,7 @@ This approach leaves room for mystery without treating every shadow as a hidden 
           <a href="https://www.amazon.com/s?k=The+Beast+in+the+Garden+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beast in the Garden">The Beast in the Garden</a>
         </h4>
         <p class="fr-book-author">By David Baron</p>
-        
+
         <p class="fr-book-desc">Explores cougar encounters and public perception of big cats.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Beast+in+the+Garden+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,10 +422,27 @@ This approach leaves room for mystery without treating every shadow as a hidden 
           <a href="https://www.amazon.com/s?k=Heart+of+a+Lion+William+Stolzenburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heart of a Lion">Heart of a Lion</a>
         </h4>
         <p class="fr-book-author">By William Stolzenburg</p>
-        
+
         <p class="fr-book-desc">Focuses on mountain lions and human interpretations of sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Heart+of+a+Lion+William+Stolzenburg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RZOpAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=American+Monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Monsters">American Monsters</a>
+        </h4>
+        <p class="fr-book-author">By Linda S. Godfrey</p>
+
+        <p class="fr-book-desc">Discusses mysterious animal reports and folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=American+Monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -439,7 +456,7 @@ This approach leaves room for mystery without treating every shadow as a hidden 
           <a href="https://www.amazon.com/s?k=Cougar+Kevin+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cougar">Cougar</a>
         </h4>
         <p class="fr-book-author">By Kevin Hansen, Mountain Lion Foundation</p>
-        
+
         <p class="fr-book-desc">Provides biological context for alleged panther sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cougar+Kevin+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,26 +465,9 @@ This approach leaves room for mystery without treating every shadow as a hidden 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsterland+Ronny+Le+Blanc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsterland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EkKjDAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Monsterland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monsterland+Ronny+Le+Blanc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsterland">Monsterland</a>
-        </h4>
-        <p class="fr-book-author">By Ronny Le Blanc</p>
-        
-        <p class="fr-book-desc">Examines unusual creature claims and eyewitness experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monsterland+Ronny+Le+Blanc&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Beast+in+the+Garden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Beast in the Garden</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heart+of+a+Lion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heart of a Lion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cougar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cougar</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Beast+in+the+Garden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Beast in the Garden</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heart+of+a+Lion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heart of a Lion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Monsters</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

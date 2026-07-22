@@ -385,27 +385,10 @@ The Northwoods legend is strongest when read in that middle space. It is not pro
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch: Legend Meets Science">Sasquatch: Legend Meets Science</a>
         </h4>
         <p class="fr-book-author">By Jeff Meldrum</p>
-        
+
         <p class="fr-book-desc">Directly examines Bigfoot evidence and reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CsDBqy9oHHkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bigfoot!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot!">Bigfoot!</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman</p>
-        
-        <p class="fr-book-desc">Broad history of North American Bigfoot traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -419,7 +402,7 @@ The Northwoods legend is strongest when read in that middle space. It is not pro
           <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious America">Mysterious America</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman</p>
-        
+
         <p class="fr-book-desc">Places Minnesota reports within national folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +419,7 @@ The Northwoods legend is strongest when read in that middle space. It is not pro
           <a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Where Bigfoot Walks">Where Bigfoot Walks</a>
         </h4>
         <p class="fr-book-author">By Robert Michael Pyle</p>
-        
+
         <p class="fr-book-desc">Explores why wilderness regions generate Bigfoot stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,9 +428,26 @@ The Northwoods legend is strongest when read in that middle space. It is not pro
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">Addresses misidentification and evidence questions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious America</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Where+Bigfoot+Walks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Where Bigfoot Walks</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

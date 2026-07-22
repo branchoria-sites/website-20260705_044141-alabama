@@ -374,16 +374,16 @@ That does not make the Iliamna legend worthless. In some ways, it makes it bette
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=U5tnbtXzaYUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+          <a href="https://www.amazon.com/s?k=Field+Guide+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep">Field Guide to Lake Monsters, Sea Serpents, and Other Mystery...</a>
         </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Explains lake-monster reports through biology, folklore, and misidentification.</p>
+        <p class="fr-book-author">By Loren Coleman</p>
+
+        <p class="fr-book-desc">Focuses on mysterious creatures reported in lakes and deep waters.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Field+Guide+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -391,16 +391,16 @@ That does not make the Iliamna legend worthless. In some ways, it makes it bette
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=U5tnbtXzaYUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Cryptids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j8DVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Cryptids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep">Field Guide to Lake Monsters, Sea Serpents, and Other Mystery...</a>
+          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a>
         </h4>
-        <p class="fr-book-author">By Loren Coleman</p>
-        
-        <p class="fr-book-desc">Focuses on mysterious creatures reported in lakes and deep waters.</p>
+        <p class="fr-book-author">By J. W. Ocker</p>
+
+        <p class="fr-book-desc">Places Alaska monster stories within wider American folklore.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,7 +414,7 @@ That does not make the Iliamna legend worthless. In some ways, it makes it bette
           <a href="https://www.amazon.com/s?k=Lake+Monster+Mysteries+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lake Monster Mysteries">Lake Monster Mysteries</a>
         </h4>
         <p class="fr-book-author">By Benjamin Radford, Joe Nickell</p>
-        
+
         <p class="fr-book-desc">Examines famous aquatic-monster sightings and evidence claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lake+Monster+Mysteries+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ That does not make the Iliamna legend worthless. In some ways, it makes it bette
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Northwoods+Paul+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of the Northwoods">Monsters of the Northwoods</a>
         </h4>
         <p class="fr-book-author">By Paul Bartholomew, Bob Bartholomew et al.</p>
-        
+
         <p class="fr-book-desc">Covers North American lake-monster traditions and how such legends develop.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Northwoods+Paul+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ That does not make the Iliamna legend worthless. In some ways, it makes it bette
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lake+Monster+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lake Monster Mysteries</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lake+Monster+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lake Monster Mysteries</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
