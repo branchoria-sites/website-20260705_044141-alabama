@@ -67,12 +67,12 @@ description: South Dakota’s monster lore is not built around one famous state 
 hero_summary: South Dakota’s monster lore is not built around one famous state mascot in the way New Jersey has the Jersey Devil or West Virginia has Mothman.
 layout: default
 permalink: /what-haunts-south-dakotas-wild-places/
-nav_short_title: What Haunts South Dakota's Wild Places?
+nav_short_title: "Tracing the Creature Reports of South Dakota"
 title: "Tracing the Creature Reports of South Dakota"
-title_full: What Haunts South Dakota's Wild Places?
-display_title_short: What Haunts South Dakota's Wild Places?
+title_full: "Tracing the Creature Reports of South Dakota"
+display_title_short: "Tracing the Creature Reports of South Dakota"
 display_title: "Tracing the Creature Reports of South Dakota"
-heading_title: What Haunts South Dakota's Wild Places?
+heading_title: "Tracing the Creature Reports of South Dakota"
 page_heading_title: "Tracing the Creature Reports of South Dakota"
 source_count: 146
 infographic_count: 3

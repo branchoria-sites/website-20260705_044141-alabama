@@ -67,12 +67,12 @@ description: Connecticut’s cryptid map is small, wooded, and surprisingly busy
 hero_summary: Connecticut’s cryptid map is small, wooded, and surprisingly busy.
 layout: default
 permalink: /what-haunts-connecticuts-woods-and/
-nav_short_title: What Haunts Connecticut's Woods and Ridges?
+nav_short_title: "Connecticut's Cryptids: Claims, Creatures and Explanations"
 title: "Connecticut's Cryptids: Claims, Creatures and Explanations"
-title_full: What Haunts Connecticut's Woods and Ridges?
-display_title_short: What Haunts Connecticut's Woods and Ridges?
+title_full: "Connecticut's Cryptids: Claims, Creatures and Explanations"
+display_title_short: "Connecticut's Cryptids: Claims, Creatures and Explanations"
 display_title: "Connecticut's Cryptids: Claims, Creatures and Explanations"
-heading_title: What Haunts Connecticut's Woods and Ridges?
+heading_title: "Connecticut's Cryptids: Claims, Creatures and Explanations"
 page_heading_title: "Connecticut's Cryptids: Claims, Creatures and Explanations"
 source_count: 138
 infographic_count: 3

@@ -67,12 +67,12 @@ description: North Dakota’s cryptid tradition is quieter than the monster lore
 hero_summary: North Dakota’s cryptid tradition is quieter than the monster lore of the Pacific Northwest or the lake-monster tourism of Scotland, but it has a distinctive shape of its own.
 layout: default
 permalink: /what-haunts-north-dakotas-waters-and/
-nav_short_title: What Haunts North Dakota's Waters and Prairie?
+nav_short_title: "Which Monster Stories From North Dakota Hold Up?"
 title: "Which Monster Stories From North Dakota Hold Up?"
-title_full: What Haunts North Dakota's Waters and Prairie?
-display_title_short: What Haunts North Dakota's Waters and Prairie?
+title_full: "Which Monster Stories From North Dakota Hold Up?"
+display_title_short: "Which Monster Stories From North Dakota Hold Up?"
 display_title: "Which Monster Stories From North Dakota Hold Up?"
-heading_title: What Haunts North Dakota's Waters and Prairie?
+heading_title: "Which Monster Stories From North Dakota Hold Up?"
 page_heading_title: "Which Monster Stories From North Dakota Hold Up?"
 source_count: 172
 infographic_count: 3

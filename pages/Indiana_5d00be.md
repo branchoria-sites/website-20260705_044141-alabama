@@ -67,12 +67,12 @@ description: 'Indiana’s cryptid tradition is less about one great monster than
 hero_summary: 'Indiana’s cryptid tradition is less about one great monster than a scatter of very Hoosier stories: a giant turtle in farm-country water, a sky “spook” explained as birds, lake-serpent memories tied to treaty-era northern Indiana, Bigfoot-style reports in wooded southern counties, and odd local flaps that live on through archives, festivals and campfire...'
 layout: default
 permalink: /what-haunts-indianas-water-and-woods/
-nav_short_title: What Haunts Indiana's Water and Woods?
+nav_short_title: "Indiana's Cryptids: Claims, Creatures and Explanations"
 title: "Indiana's Cryptids: Claims, Creatures and Explanations"
-title_full: What Haunts Indiana's Water and Woods?
-display_title_short: What Haunts Indiana's Water and Woods?
+title_full: "Indiana's Cryptids: Claims, Creatures and Explanations"
+display_title_short: "Indiana's Cryptids: Claims, Creatures and Explanations"
 display_title: "Indiana's Cryptids: Claims, Creatures and Explanations"
-heading_title: What Haunts Indiana's Water and Woods?
+heading_title: "Indiana's Cryptids: Claims, Creatures and Explanations"
 page_heading_title: "Indiana's Cryptids: Claims, Creatures and Explanations"
 source_count: 167
 infographic_count: 3

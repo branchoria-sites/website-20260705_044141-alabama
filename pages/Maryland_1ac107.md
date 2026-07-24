@@ -67,12 +67,12 @@ description: Maryland’s monster tradition is unusually rich because its best-k
 hero_summary: Maryland’s monster tradition is unusually rich because its best-known creatures are not all the same kind of story. The Snallygaster is a mountain newspaper monster with older folklore roots and a troubling history of social fear.
 layout: default
 permalink: /what-haunts-marylands-roads-mountains/
-nav_short_title: What Haunts Maryland's Roads, Mountains and Bay?
+nav_short_title: "Which Monster Stories From Maryland Hold Up?"
 title: "Which Monster Stories From Maryland Hold Up?"
-title_full: What Haunts Maryland's Roads, Mountains and Bay?
-display_title_short: What Haunts Maryland's Roads, Mountains and Bay?
+title_full: "Which Monster Stories From Maryland Hold Up?"
+display_title_short: "Which Monster Stories From Maryland Hold Up?"
 display_title: "Which Monster Stories From Maryland Hold Up?"
-heading_title: What Haunts Maryland's Roads, Mountains and Bay?
+heading_title: "Which Monster Stories From Maryland Hold Up?"
 page_heading_title: "Which Monster Stories From Maryland Hold Up?"
 source_count: 123
 infographic_count: 3

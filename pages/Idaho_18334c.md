@@ -67,12 +67,12 @@ description: Idaho’s monster folklore is less a single grand myth than a map o
 hero_summary: Idaho’s monster folklore is less a single grand myth than a map of deep water, timbered mountains, old newspaper yarns and modern road-trip legends.
 layout: default
 permalink: /what-haunts-idahos-lakes-and-forests/
-nav_short_title: What Haunts Idaho's Lakes and Forests?
+nav_short_title: "Tracing the Creature Reports of Idaho"
 title: "Tracing the Creature Reports of Idaho"
-title_full: What Haunts Idaho's Lakes and Forests?
-display_title_short: What Haunts Idaho's Lakes and Forests?
+title_full: "Tracing the Creature Reports of Idaho"
+display_title_short: "Tracing the Creature Reports of Idaho"
 display_title: "Tracing the Creature Reports of Idaho"
-heading_title: What Haunts Idaho's Lakes and Forests?
+heading_title: "Tracing the Creature Reports of Idaho"
 page_heading_title: "Tracing the Creature Reports of Idaho"
 source_count: 206
 infographic_count: 3

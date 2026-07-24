@@ -67,12 +67,12 @@ description: 'North Carolina’s creature lore is not built around one monster b
 hero_summary: 'North Carolina’s creature lore is not built around one monster but around a landscape: mountain ridges, old forests, coastal swamps, blackwater rivers, man-made lakes and small towns where a strange animal story can travel faster than a police report.'
 layout: default
 permalink: /what-haunts-north-carolinas-wild-places/
-nav_short_title: What Haunts North Carolina's Wild Places?
+nav_short_title: "From Local Legends to Cryptid Claims in North Carolina"
 title: "From Local Legends to Cryptid Claims in North Carolina"
-title_full: What Haunts North Carolina's Wild Places?
-display_title_short: What Haunts North Carolina's Wild Places?
+title_full: "From Local Legends to Cryptid Claims in North Carolina"
+display_title_short: "From Local Legends to Cryptid Claims in North Carolina"
 display_title: "From Local Legends to Cryptid Claims in North Carolina"
-heading_title: What Haunts North Carolina's Wild Places?
+heading_title: "From Local Legends to Cryptid Claims in North Carolina"
 page_heading_title: "From Local Legends to Cryptid Claims in North Carolina"
 source_count: 167
 infographic_count: 3

@@ -67,12 +67,12 @@ description: 'Illinois cryptid lore is less a single monster story than a map of
 hero_summary: 'Illinois cryptid lore is less a single monster story than a map of the state’s landscapes: Mississippi River bluffs, muddy southern river bottoms, the Shawnee National Forest, Lake Michigan’s shoreline, old newspaper towns and Chicago’s modern urban night sky.'
 layout: default
 permalink: /illinois/
-nav_short_title: What Haunts the Prairie State?
+nav_short_title: "Which Monster Stories From Illinois Hold Up?"
 title: "Which Monster Stories From Illinois Hold Up?"
-title_full: What Haunts the Prairie State?
-display_title_short: What Haunts the Prairie State?
+title_full: "Which Monster Stories From Illinois Hold Up?"
+display_title_short: "Which Monster Stories From Illinois Hold Up?"
 display_title: "Which Monster Stories From Illinois Hold Up?"
-heading_title: What Haunts the Prairie State?
+heading_title: "Which Monster Stories From Illinois Hold Up?"
 page_heading_title: "Which Monster Stories From Illinois Hold Up?"
 source_count: 140
 infographic_count: 3

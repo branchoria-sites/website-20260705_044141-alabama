@@ -67,12 +67,12 @@ description: 'Vermont’s monster tradition is dominated by one creature: Champ,
 hero_summary: 'Vermont’s monster tradition is dominated by one creature: Champ, the long-necked lake monster said to live in Lake Champlain.'
 layout: default
 permalink: /what-haunts-vermonts-lakes-and-mountains/
-nav_short_title: What Haunts Vermont's Lakes and Mountains?
+nav_short_title: "Inside Vermont's Cryptid Traditions"
 title: "Inside Vermont's Cryptid Traditions"
-title_full: What Haunts Vermont's Lakes and Mountains?
-display_title_short: What Haunts Vermont's Lakes and Mountains?
+title_full: "Inside Vermont's Cryptid Traditions"
+display_title_short: "Inside Vermont's Cryptid Traditions"
 display_title: "Inside Vermont's Cryptid Traditions"
-heading_title: What Haunts Vermont's Lakes and Mountains?
+heading_title: "Inside Vermont's Cryptid Traditions"
 page_heading_title: "Inside Vermont's Cryptid Traditions"
 source_count: 166
 infographic_count: 3

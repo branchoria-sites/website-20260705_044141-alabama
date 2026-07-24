@@ -67,12 +67,12 @@ description: 'Alabama’s cryptid tradition is strongest where two things meet: 
 hero_summary: 'Alabama’s cryptid tradition is strongest where two things meet: real wild country and very human storytelling.'
 layout: default
 permalink: /what-haunts-alabamas-wild-places/
-nav_short_title: What Haunts Alabama's Wild Places?
+nav_short_title: "Which Monster Stories From Alabama Hold Up?"
 title: "Which Monster Stories From Alabama Hold Up?"
-title_full: What Haunts Alabama's Wild Places?
-display_title_short: What Haunts Alabama's Wild Places?
+title_full: "Which Monster Stories From Alabama Hold Up?"
+display_title_short: "Which Monster Stories From Alabama Hold Up?"
 display_title: "Which Monster Stories From Alabama Hold Up?"
-heading_title: What Haunts Alabama's Wild Places?
+heading_title: "Which Monster Stories From Alabama Hold Up?"
 page_heading_title: "Which Monster Stories From Alabama Hold Up?"
 source_count: 152
 infographic_count: 3
