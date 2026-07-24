@@ -566,8 +566,7 @@ Rhode Island’s cryptid stories are best sorted into three overlapping categori
 
 Hoax is not the strongest default explanation for Rhode Island’s main cases. Misidentification, decay, media amplification and folklore-building explain more with fewer assumptions. A hoax requires intent to deceive; many monster stories need only surprise, uncertainty and a memorable nickname.
 
-## How the legends changed over time
-
+## How later accounts reshaped Rhode Island's cryptid traditions
 Rhode Island’s creature lore has become more searchable, more branded and more tourist-friendly over time. A century ago, sea-serpent rumours travelled through newspapers, sailors and port gossip. By the late twentieth century, the Block Ness Monster could become a local curiosity through crowds, souvenirs, photographs and radio or print retellings. In the 2000s and 2010s, Big Rhodey and Teddy’s Beach circulated through local news, paranormal groups, podcasts, blogs and television listings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readex.com/blog/here-there-be-monsters-or-gloucester-serpent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">here there be monsters or gloucester serpent</span><span class="citation-popover-snippet">here there be monsters or gloucester serpent</span></span></span>
 
 The internet has also flattened the difference between a major tradition and a minor anecdote. A single beach encounter can now sit beside Bigfoot and Block Ness in “Rhode Island cryptids” lists, even if the evidence behind each item is very different. That can be fun, but it can also make thin cases look more established than they are.

@@ -569,8 +569,7 @@ The more cautious reading is that Old Green Eyes belongs to battlefield memory r
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Iute6bBrxTI" title="Terrifying Creatures Sighted In Tennessee Deep Woods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Iute6bBrxTI" target="_blank" rel="noopener noreferrer">Terrifying Creatures Sighted In Tennessee Deep Woods</a></p><p class="youtube-embed-meta">Channel: What Lurks Beneath</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Iute6bBrxTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Iute6bBrxTI">Open on YouTube</a></p></div></div></div>
 
-## What would count as stronger evidence?
-
+## How the claims around Tennessee's cryptid traditions could be tested
 Tennessee cryptid stories are enjoyable, culturally revealing and sometimes historically interesting, but they rarely meet the standard needed to establish an unknown animal. Most claims rely on single-witness accounts, retellings, old newspapers, local-history pages, tourist sites or databases that collect reports without independent biological verification.
 
 Stronger evidence would look different:

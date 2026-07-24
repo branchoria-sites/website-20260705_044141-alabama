@@ -340,8 +340,7 @@ The most grounded explanation is therefore not one single debunk. Lake Manitou�
 
 <img src="{{ "/assets/images/Indiana_5d00be_lake_manitou_monster_29b32c-Illustration-3-dark.svg" | relative_url }}" alt="Lake Manitou illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_lake_manitou_monster_29b32c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_lake_manitou_monster_29b32c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the Legend Changed Over Time
-
+## How later accounts reshaped Lake Manitou
 The earliest Manitou monster is a dramatic lake serpent: huge, spotted, frightening and tied to Indigenous tradition. The mid-century afterlife turns it into a giant fish story. By the late nineteenth century, the monster could be something to exhibit at the courthouse for a fee. In modern local heritage, it becomes a charming piece of Rochester and Fulton County identity, alongside boating, fishing, cottages, resorts and lake history.
 
 That change matters because it shows how cryptid traditions adapt to what a community needs from them. In 1838, the Manitou monster gave Logansport newspapers a frontier marvel and a chance to stage a “scientific” adventure. In later fish stories, it helped turn unusual catches into public events. In present-day retellings, it gives Lake Manitou a distinctive identity: not merely a recreational lake, but a place with a deep, odd story attached to its name.

@@ -310,8 +310,7 @@ Other proposed ordinary factors fill in the gaps: a pulsing red light may have b
 
 <img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_d00f39-Illustration-2-dark.svg" | relative_url }}" alt="Flatwoods illustration 2" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_d00f39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_d00f39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What the evidence can and cannot support
-
+## Separating the record from the legend of Flatwoods
 The Flatwoods Monster case has better documentation than many campfire legends, but weaker evidence than believers often imply. It has named witnesses, early newspaper attention, a specific date, a specific community, and a vivid image. It also has contradictions, later embellishments and no recovered object or biological trace. That is why the case works so well as folklore and so poorly as proof of an alien visitor.
 
 A useful way to sort the evidence is to separate four layers:

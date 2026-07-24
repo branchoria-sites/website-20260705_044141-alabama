@@ -68,12 +68,12 @@ hero_summary: Idaho’s monster folklore is less a single grand myth than a map 
 layout: default
 permalink: /what-haunts-idahos-lakes-and-forests/
 nav_short_title: What Haunts Idaho's Lakes and Forests?
-title: What Haunts Idaho's Lakes and Forests?
+title: "Tracing the Creature Reports of Idaho"
 title_full: What Haunts Idaho's Lakes and Forests?
 display_title_short: What Haunts Idaho's Lakes and Forests?
-display_title: What Haunts Idaho's Lakes and Forests?
+display_title: "Tracing the Creature Reports of Idaho"
 heading_title: What Haunts Idaho's Lakes and Forests?
-page_heading_title: What Haunts Idaho's Lakes and Forests?
+page_heading_title: "Tracing the Creature Reports of Idaho"
 source_count: 206
 infographic_count: 3
 page_website_name: Idaho Monsters

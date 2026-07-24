@@ -579,8 +579,7 @@ That makes the gowrow valuable, not worthless. It shows that Arkansas monster lo
 
 <img src="{{ "/assets/images/Arkansas_2f717f-Illustration-3-dark.svg" | relative_url }}" alt="What Haunts Arkansas&#x27; Rivers and Woods? illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What the evidence really supports
-
+## What the record supports about Arkansas' cryptid traditions
 Arkansas cryptid evidence is strongest as folklore, local history and media history; it is weak as proof of unknown animals. The Fouke Monster has named witnesses, newspaper coverage, alleged tracks and a powerful film afterlife, but no confirmed body, DNA, clear photograph or accepted biological specimen. The White River Monster has a long place-based tradition, multiple sighting waves and even a legislative refuge, but its most plausible natural explanations point towards large known animals, especially huge fish, rather than a new river species. The Ozark Howler is even more fluid, with reports shaped by sound, fear, big-cat rumours and regional storytelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://encyclopediaofarkansas.net/entries/fouke-monster-2212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[encyclopediaofarkansas.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas Fouke Monster</span><span class="citation-popover-snippet">Encyclopedia of Arkansas Fouke Monster</span></span></span>
 
 A fair reading keeps several possibilities open without treating them as equally likely:

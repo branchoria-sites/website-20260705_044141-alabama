@@ -68,12 +68,12 @@ hero_summary: Connecticut’s cryptid map is small, wooded, and surprisingly bus
 layout: default
 permalink: /what-haunts-connecticuts-woods-and/
 nav_short_title: What Haunts Connecticut's Woods and Ridges?
-title: What Haunts Connecticut's Woods and Ridges?
+title: "Connecticut's Cryptids: Claims, Creatures and Explanations"
 title_full: What Haunts Connecticut's Woods and Ridges?
 display_title_short: What Haunts Connecticut's Woods and Ridges?
-display_title: What Haunts Connecticut's Woods and Ridges?
+display_title: "Connecticut's Cryptids: Claims, Creatures and Explanations"
 heading_title: What Haunts Connecticut's Woods and Ridges?
-page_heading_title: What Haunts Connecticut's Woods and Ridges?
+page_heading_title: "Connecticut's Cryptids: Claims, Creatures and Explanations"
 source_count: 138
 infographic_count: 3
 page_website_name: Connecticut Cryptids
@@ -607,8 +607,7 @@ Old mill towns and newspaper towns make good wildman country because they sit be
 
 <img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-dark.svg" | relative_url }}" alt="What Haunts Connecticut&#x27;s Woods and Ridges? illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legends changed over time
-
+## How later accounts reshaped Connecticut's cryptid traditions
 Connecticut’s cryptids have not stayed fixed. The Black Dog began as a local omen tale and became a staple of haunted Connecticut writing, hiking lore, and regional Halloween coverage. The Glawackus moved from frightening 1939 predator flap to playful local mascot material, with modern coverage even noting its afterlife in sports branding and public folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/The-legend-of-the-Black-Dog-of-the-Hanging-Hills-17045803.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider The legend of the Black Dog of the Hanging Hills has its</span><span class="citation-popover-snippet">CT Insider The legend of the Black Dog of the Hanging Hills has its</span></span></span>
 
 The Winsted Wild Man changed most dramatically. In the 1890s it was a wildman or possible hoax story. In later cryptid culture it became a “Connecticut Bigfoot” precursor, not because the original evidence improved, but because the national Bigfoot framework gave older hairy-humanoid stories a new category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/The-CT-Files-The-Legend-of-the-Winsted-Wildman-17041808.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[ctinsider.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">The CT Files The Legend of the Winsted Wildman 17041808</span><span class="citation-popover-snippet">The CT Files The Legend of the Winsted Wildman 17041808</span></span></span>

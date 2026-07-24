@@ -68,12 +68,12 @@ hero_summary: 'Illinois cryptid lore is less a single monster story than a map o
 layout: default
 permalink: /illinois/
 nav_short_title: What Haunts the Prairie State?
-title: What Haunts the Prairie State?
+title: "Which Monster Stories From Illinois Hold Up?"
 title_full: What Haunts the Prairie State?
 display_title_short: What Haunts the Prairie State?
-display_title: What Haunts the Prairie State?
+display_title: "Which Monster Stories From Illinois Hold Up?"
 heading_title: What Haunts the Prairie State?
-page_heading_title: What Haunts the Prairie State?
+page_heading_title: "Which Monster Stories From Illinois Hold Up?"
 source_count: 140
 infographic_count: 3
 page_website_name: Illinois Cryptids

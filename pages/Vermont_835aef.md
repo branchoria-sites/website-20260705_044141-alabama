@@ -68,12 +68,12 @@ hero_summary: 'Vermont’s monster tradition is dominated by one creature: Champ
 layout: default
 permalink: /what-haunts-vermonts-lakes-and-mountains/
 nav_short_title: What Haunts Vermont's Lakes and Mountains?
-title: What Haunts Vermont's Lakes and Mountains?
+title: "Inside Vermont's Cryptid Traditions"
 title_full: What Haunts Vermont's Lakes and Mountains?
 display_title_short: What Haunts Vermont's Lakes and Mountains?
-display_title: What Haunts Vermont's Lakes and Mountains?
+display_title: "Inside Vermont's Cryptid Traditions"
 heading_title: What Haunts Vermont's Lakes and Mountains?
-page_heading_title: What Haunts Vermont's Lakes and Mountains?
+page_heading_title: "Inside Vermont's Cryptid Traditions"
 source_count: 166
 infographic_count: 3
 page_website_name: Vermont Monsters

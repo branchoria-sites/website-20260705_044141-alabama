@@ -68,12 +68,12 @@ hero_summary: South Dakota’s monster lore is not built around one famous state
 layout: default
 permalink: /what-haunts-south-dakotas-wild-places/
 nav_short_title: What Haunts South Dakota's Wild Places?
-title: What Haunts South Dakota's Wild Places?
+title: "Tracing the Creature Reports of South Dakota"
 title_full: What Haunts South Dakota's Wild Places?
 display_title_short: What Haunts South Dakota's Wild Places?
-display_title: What Haunts South Dakota's Wild Places?
+display_title: "Tracing the Creature Reports of South Dakota"
 heading_title: What Haunts South Dakota's Wild Places?
-page_heading_title: What Haunts South Dakota's Wild Places?
+page_heading_title: "Tracing the Creature Reports of South Dakota"
 source_count: 146
 infographic_count: 3
 page_website_name: South Dakota Monsters

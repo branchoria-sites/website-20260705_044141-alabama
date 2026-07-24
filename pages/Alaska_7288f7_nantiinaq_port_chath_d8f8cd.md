@@ -294,8 +294,7 @@ This is where the evidence becomes fragile. These are compelling stories, but th
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R13gAjCAi4U" title="The Last Remaining Cabin in Portlock | Alaskan Killer Bigfoot | discovery+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R13gAjCAi4U" target="_blank" rel="noopener noreferrer">The Last Remaining Cabin in Portlock | Alaskan Killer Bigfoot | discovery+</a></p><p class="youtube-embed-meta">Channel: discovery plus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R13gAjCAi4U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R13gAjCAi4U">Open on YouTube</a></p></div></div></div>
 
-## What the evidence can and cannot support
-
+## What the record supports about Nantiinaq
 The Port Chatham legend has three different evidence layers, and they are often blurred together.
 
 First, there is strong evidence that Portlock existed and was later abandoned. Place-name references, local reporting and census/post-office discussions all support the basic ghost-town frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/pp567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-title">U.S. Geological Survey Dictionary of Alaska place names</span><span class="citation-popover-snippet">U.S. Geological Survey Dictionary of Alaska place names</span></span></span>
@@ -330,8 +329,7 @@ That amplification cuts both ways. On one hand, television gave local storytelle
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FHFnZr-gmYY" title="How to Stay Alive | Alaskan Killer Bigfoot | discovery+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FHFnZr-gmYY" target="_blank" rel="noopener noreferrer">How to Stay Alive | Alaskan Killer Bigfoot | discovery+</a></p><p class="youtube-embed-meta">Channel: discovery plus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FHFnZr-gmYY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FHFnZr-gmYY">Open on YouTube</a></p></div></div></div>
 
-## How the legend changed over time
-
+## The changing story around Nantiinaq
 The Port Chatham legend has become sharper and more violent as it has travelled. Early and local forms appear to mix warnings, frightening experiences, possible disappearances, a ghostly woman, a hairy being and a taboo place. Later internet and television versions often streamline that into a simpler hook: a killer Bigfoot drove an entire Alaska town away.
 
 That simplification is powerful because it gives readers and viewers an instantly graspable story. It also removes uncertainty. “A settlement declined for economic, social and access reasons while frightening local stories attached themselves to the place” is historically plausible but less dramatic. “A murderous creature emptied a town” is easier to sell.

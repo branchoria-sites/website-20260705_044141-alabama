@@ -334,8 +334,7 @@ That distinction also makes the Oregon story more interesting, not less. It show
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/stR9HhlRN4s" title="Investigating 122 Squatch Prints in Oregon | Finding Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=stR9HhlRN4s" target="_blank" rel="noopener noreferrer">Investigating 122 Squatch Prints in Oregon | Finding Bigfoot</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=stR9HhlRN4s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=stR9HhlRN4s">Open on YouTube</a></p></div></div></div>
 
-## What would count as stronger evidence?
-
+## Evidence needed to test Bigfoot
 The Oregon Bigfoot file is large in stories and thin in decisive proof. That is not a contradiction; it is the central feature of the legend. The strongest claims usually involve converging details: a sighting in plausible habitat, tracks nearby, multiple witnesses, no obvious bear explanation, and a witness with outdoor experience. But even those better cases usually stop short of the evidence required to establish a large unknown primate in North America.
 
 For Oregon’s evidence trail to change substantially, it would need evidence that is testable, independently recoverable and difficult to explain as bear, human, hoax or error. The most important forms would include:

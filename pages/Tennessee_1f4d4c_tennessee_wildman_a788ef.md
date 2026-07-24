@@ -310,8 +310,7 @@ Television strengthened that reclassification. The *Elizabethton Star* reported 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l-EdJxzpSpM" title="Top 5 Tennessee Bigfoot Sightings! Smoky Mountains Hide a Massive Secret Among The Foggy Hills!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l-EdJxzpSpM" target="_blank" rel="noopener noreferrer">Top 5 Tennessee Bigfoot Sightings! Smoky Mountains Hide a Massive Secret Among The Foggy Hills!</a></p><p class="youtube-embed-meta">Channel: Campfire Crossroads</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l-EdJxzpSpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l-EdJxzpSpM">Open on YouTube</a></p></div></div></div>
 
-## What the evidence can and cannot support
-
+## Separating the record from the legend of Wildman
 The Tennessee Wildman has a better historical hook than many state cryptids because there is a specific old newspaper text to discuss. But the quality of evidence is still thin. The 1871 account is hearsay in a reprinted newspaper item. It gives no named witnesses, no physical trace, no captured animal, no medical examination, no official investigation and no reliable follow-up. The modern East Tennessee accounts are witness narratives and media retellings, not zoological evidence.
 
 Several ordinary explanations remain plausible, and more than one could be true across different versions of the story.

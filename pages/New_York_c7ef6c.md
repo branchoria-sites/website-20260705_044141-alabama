@@ -579,8 +579,7 @@ The same caution applies more broadly to borrowed names and legends. New York’
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IWkCOTKclFw" title="&#x27;Sasquatch is a beloved entity here:&#x27; Thousands attend Adirondack Sasquatch festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IWkCOTKclFw" target="_blank" rel="noopener noreferrer">&#x27;Sasquatch is a beloved entity here:&#x27; Thousands attend Adirondack Sasquatch festival</a></p><p class="youtube-embed-meta">Channel: Vermont Public</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IWkCOTKclFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IWkCOTKclFw">Open on YouTube</a></p></div></div></div>
 
-## What the evidence really supports
-
+## What the record supports about New York's cryptid traditions
 New York has strong evidence for monster stories, but not strong evidence for unknown large animals. That sounds like a contradiction, but it is the key to the state’s cryptid history. There is good evidence that people told Champ stories, built a Silver Lake serpent, displayed the Cardiff Giant, photographed the Montauk carcass, reported Whitehall Bigfoot encounters and rescued abandoned alligators. There is not comparable mainstream evidence that Lake Champlain contains a breeding population of giant unknown reptiles, that Whitehall hosts an undiscovered ape, or that New York City sewers hold adult alligator colonies.
 
 The most plausible explanations vary by case:
@@ -603,8 +602,7 @@ That evidence-aware reading does not make the stories worthless. It makes them m
 
 <img src="{{ "/assets/images/New_York_c7ef6c-Illustration-3-dark.svg" | relative_url }}" alt="What Makes New York Monster Country? illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legends changed over time
-
+## The changing story around New York's cryptid traditions
 New York’s monster stories tend to move through stages. First comes a sighting, rumour, object or performance: a lake shape, a roadside figure, a strange carcass, a buried giant, a constructed serpent. Then comes amplification through newspapers, local talk, tourism, television, blogs or social media. Finally, the story either collapses into explanation or survives as identity.
 
 Champ survived because it became a regional mascot. Whitehall Bigfoot survived because the town embraced it. The Silver Lake Sea Serpent survived because the hoax itself became the fun. The Cardiff Giant survived because American culture loves a famous fraud. The Montauk Monster survived because a raccoon-like carcass became an internet-era image. Even the sewer alligator survives because occasional real abandoned reptiles keep the premise from feeling entirely impossible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakechamplainregion.com/heritage/champ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakechamplainregion.com">[lakechamplainregion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakechamplainregion.com</span><span class="citation-popover-snippet">Open source on lakechamplainregion.com.</span></span></span>

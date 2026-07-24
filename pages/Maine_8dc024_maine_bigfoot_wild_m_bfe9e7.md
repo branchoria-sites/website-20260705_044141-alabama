@@ -335,8 +335,7 @@ The point is not that “it was definitely a bear” explains every Maine story.
 
 <img src="{{ "/assets/images/Maine_8dc024_maine_bigfoot_wild_m_bfe9e7-Illustration-3-dark.svg" | relative_url }}" alt="Bigfoot illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_bigfoot_wild_m_bfe9e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_bigfoot_wild_m_bfe9e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legend changed over time
-
+## The changing story around Bigfoot
 Maine’s Bigfoot tradition looks like a local version of a wider North American shift. The older “wild man” was often a newspaper giant: dangerous, hairy, violent and located at the edge of settlement. The modern Bigfoot is more often an elusive animal-person: seen crossing roads, heard roaring, leaving tracks, avoiding people, and interpreted through the national Sasquatch image.
 
 That change matters. The 1886 Moosehead-area story reads like a sensational frontier item; the 1970s I-95 account reads like a modern roadside encounter; the 2007 Green Pond account reads like a fear-and-sound episode; and the 2020s BFRO listings fit the contemporary online database model, where witnesses can submit sightings by county, class and date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sunjournal.com/2013/10/27/bigfoot-maine-10-foot-tall-wild-man-killed-1886-newspapers-reported/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sunjournal.com">[sunjournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sunjournal.com</span><span class="citation-popover-title">bigfoot maine 10 foot tall wild man killed 1886 newspapers reported</span><span class="citation-popover-snippet">bigfoot maine 10 foot tall wild man killed 1886 newspapers reported</span></span></span>

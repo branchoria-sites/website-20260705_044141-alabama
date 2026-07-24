@@ -68,12 +68,12 @@ hero_summary: 'North Carolina’s creature lore is not built around one monster 
 layout: default
 permalink: /what-haunts-north-carolinas-wild-places/
 nav_short_title: What Haunts North Carolina's Wild Places?
-title: What Haunts North Carolina's Wild Places?
+title: "From Local Legends to Cryptid Claims in North Carolina"
 title_full: What Haunts North Carolina's Wild Places?
 display_title_short: What Haunts North Carolina's Wild Places?
-display_title: What Haunts North Carolina's Wild Places?
+display_title: "From Local Legends to Cryptid Claims in North Carolina"
 heading_title: What Haunts North Carolina's Wild Places?
-page_heading_title: What Haunts North Carolina's Wild Places?
+page_heading_title: "From Local Legends to Cryptid Claims in North Carolina"
 source_count: 167
 infographic_count: 3
 page_website_name: NC Cryptids
@@ -571,8 +571,7 @@ Sea-serpent traditions around the North Carolina coast are harder to pin down in
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3lHF29l9JYM" title="Normie: The Killer Lake Monster of North Carolina | Boogeymen | S1 EP11 | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3lHF29l9JYM" target="_blank" rel="noopener noreferrer">Normie: The Killer Lake Monster of North Carolina | Boogeymen | S1 EP11 | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3lHF29l9JYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3lHF29l9JYM">Open on YouTube</a></p></div></div></div>
 
-## What the evidence can and cannot support
-
+## The evidential limits around North Carolina's cryptid traditions
 North Carolina’s monster traditions are best read in layers. Some are claim clusters: Bigfoot reports in Uwharrie, Knobby sightings in Cleveland County, or Normie sightings on Lake Norman. Some are historical flaps: the Beast of Bladenboro. Some are older folklore: Wampus Cats, Boojum and Mermaid Point. Some are ecological misunderstandings: phantom panthers, oversized fish, bears walking briefly upright, or alligators seen where visitors do not expect them.
 
 A useful credibility test is to ask what kind of evidence the story actually has.

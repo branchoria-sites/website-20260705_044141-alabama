@@ -68,12 +68,12 @@ hero_summary: 'Alabama’s cryptid tradition is strongest where two things meet:
 layout: default
 permalink: /what-haunts-alabamas-wild-places/
 nav_short_title: What Haunts Alabama's Wild Places?
-title: What Haunts Alabama's Wild Places?
+title: "Which Monster Stories From Alabama Hold Up?"
 title_full: What Haunts Alabama's Wild Places?
 display_title_short: What Haunts Alabama's Wild Places?
-display_title: What Haunts Alabama's Wild Places?
+display_title: "Which Monster Stories From Alabama Hold Up?"
 heading_title: What Haunts Alabama's Wild Places?
-page_heading_title: What Haunts Alabama's Wild Places?
+page_heading_title: "Which Monster Stories From Alabama Hold Up?"
 source_count: 152
 infographic_count: 3
 page_website_name: Alabama Cryptids

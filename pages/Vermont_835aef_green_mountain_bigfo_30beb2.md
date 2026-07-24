@@ -318,8 +318,7 @@ Other ordinary explanations fit Vermont’s setting too. A distant moose, a pers
 
 <img src="{{ "/assets/images/Vermont_835aef_green_mountain_bigfo_30beb2-Illustration-3-dark.svg" | relative_url }}" alt="Bigfoot illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_green_mountain_bigfo_30beb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_green_mountain_bigfo_30beb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What would count as stronger evidence?
-
+## What a stronger case for Bigfoot would require
 The strongest current material for Green Mountain Bigfoot is testimony: sightings submitted to databases, local stories, and recurring claims around wooded corridors. Testimony is worth preserving because it shows how people experience the landscape, but it is not the same as biological evidence. Vermont has no confirmed Bigfoot specimen, no accepted DNA record, no official wildlife recognition, and no clear photographic record strong enough to shift mainstream understanding of North American mammals.
 
 A useful credibility scale for this legend looks like this:

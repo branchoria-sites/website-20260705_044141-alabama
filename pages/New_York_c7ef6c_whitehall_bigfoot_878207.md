@@ -342,8 +342,7 @@ The sceptical reading is straightforward: poor light, distance, fear, expectatio
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IWkCOTKclFw" title="&#x27;Sasquatch is a beloved entity here:&#x27; Thousands attend Adirondack Sasquatch festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IWkCOTKclFw" target="_blank" rel="noopener noreferrer">&#x27;Sasquatch is a beloved entity here:&#x27; Thousands attend Adirondack Sasquatch festival</a></p><p class="youtube-embed-meta">Channel: Vermont Public</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IWkCOTKclFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IWkCOTKclFw">Open on YouTube</a></p></div></div></div>
 
-## How the legend changed over time
-
+## The changing story around Whitehall
 Whitehall Bigfoot changed in stages.
 
 First came the encounter phase: local reports, police response, newspaper attention and embarrassment. In this phase, the story was raw and socially risky. Witnesses could be mocked. The creature was not yet a mascot; it was an unsettling claim attached to real people and a real road.

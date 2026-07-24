@@ -68,12 +68,12 @@ hero_summary: 'Indiana’s cryptid tradition is less about one great monster tha
 layout: default
 permalink: /what-haunts-indianas-water-and-woods/
 nav_short_title: What Haunts Indiana's Water and Woods?
-title: What Haunts Indiana's Water and Woods?
+title: "Indiana's Cryptids: Claims, Creatures and Explanations"
 title_full: What Haunts Indiana's Water and Woods?
 display_title_short: What Haunts Indiana's Water and Woods?
-display_title: What Haunts Indiana's Water and Woods?
+display_title: "Indiana's Cryptids: Claims, Creatures and Explanations"
 heading_title: What Haunts Indiana's Water and Woods?
-page_heading_title: What Haunts Indiana's Water and Woods?
+page_heading_title: "Indiana's Cryptids: Claims, Creatures and Explanations"
 source_count: 167
 infographic_count: 3
 page_website_name: Indiana Monsters
