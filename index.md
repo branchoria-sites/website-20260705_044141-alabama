@@ -3,6 +3,7 @@ layout: default
 title: Branchoria
 permalink: /
 home: true
+last_modified_at: 2026-09-27
 homepage_audience_mode: production
 homepage_copy_policy: polished
 output_language: English
@@ -178,6 +179,8 @@ image: /assets/images/New_Jersey_18255a-overview-social.jpg
 site_image_description: A pale shaggy figure stands at the edge of a dark Alabama pine forest near a rural road, with swamp mist and distant hills behind...
 ---
 
+
+<h1 class="home-structure-intro-title">Cryptids by State</h1>
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="us-states" data-map-item-type="state" data-map-label="Interactive USA states map" data-map-fallback-summary="Open this state file from the map." data-map-src="{{ 'assets/maps/us.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/us-states.json' | relative_url }}" data-map-fit="" data-map-initial-item="AZ" data-map-preview-preload="8">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
