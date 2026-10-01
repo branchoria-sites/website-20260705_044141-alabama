@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-index/
 description: Focused pages that expand on What Monsters Lurk in Kansas Folklore?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kansas_48303f
 parent_title: What Monsters Lurk in Kansas Folklore?

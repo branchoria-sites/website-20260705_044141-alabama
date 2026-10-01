@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-index/
 description: Focused pages that expand on What Haunts Idaho's Lakes and Forests?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Idaho_18334c
 parent_title: What Haunts Idaho's Lakes and Forests?

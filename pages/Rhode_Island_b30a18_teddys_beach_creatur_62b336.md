@@ -199,6 +199,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-05 00:53:17'
+last_modified_at: '2026-07-05 00:53:17'
 parent_title: Rhode Island Monsters
 parent_permalink: /does-rhode-island-really-have-monsters/
 parent_nav_short_title: Rhode Island Monsters

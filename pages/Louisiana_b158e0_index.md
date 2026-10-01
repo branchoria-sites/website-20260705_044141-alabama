@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /louisiana-b158e0-index/
 description: Focused pages that expand on What Lurks in Louisiana's Monster Country?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Louisiana_b158e0
 parent_title: What Lurks in Louisiana's Monster Country?

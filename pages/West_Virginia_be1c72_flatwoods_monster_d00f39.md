@@ -199,6 +199,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-05 04:20:46'
+last_modified_at: '2026-07-05 04:20:46'
 parent_title: West Virginia Monsters
 parent_permalink: /why-west-virginia-became-monster-country/
 parent_nav_short_title: West Virginia Monsters

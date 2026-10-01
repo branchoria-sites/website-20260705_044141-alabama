@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nevada-b93191-index/
 description: Focused pages that expand on What Lurks in Nevada's Strange Waters?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nevada_b93191
 parent_title: What Lurks in Nevada's Strange Waters?

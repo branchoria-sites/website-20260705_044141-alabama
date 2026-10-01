@@ -199,6 +199,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 10:29:07'
+last_modified_at: '2026-07-04 10:29:07'
 parent_title: Colorado Cryptids
 parent_permalink: /what-haunts-colorados-monster-country/
 parent_nav_short_title: Colorado Cryptids
