@@ -199,6 +199,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 19:36:12'
+last_modified_at: '2026-07-04 19:36:12'
 parent_title: Nebraska Cryptids
 parent_permalink: /nebraskas-strangest-monster-stories/
 parent_nav_short_title: Nebraska Cryptids

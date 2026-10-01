@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-dakota-0b6838-index/
 description: Focused pages that expand on What Haunts North Dakota's Waters and....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Dakota_0b6838
 parent_title: What Haunts North Dakota's Waters and...

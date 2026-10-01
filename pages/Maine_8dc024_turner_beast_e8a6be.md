@@ -199,6 +199,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 16:30:03'
+last_modified_at: '2026-07-04 16:30:03'
 parent_title: Maine Monsters
 parent_permalink: /what-monsters-haunt-maines-wild-places/
 parent_nav_short_title: Maine Monsters

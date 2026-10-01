@@ -240,6 +240,7 @@ prev_link:
   short_title: Lake Music
   heading_title: Why Does Yellowstone Lake Sound Haunted?
 date: '2026-07-05 04:34:09 '
+last_modified_at: '2026-07-05 04:34:09 '
 header:
   og_image: /assets/images/Wyoming_ed190c_smetty_lake_desmet_9a94b1-overview-social.jpg
   preview_image: /assets/images/Wyoming_ed190c_smetty_lake_desmet_9a94b1-overview.webp

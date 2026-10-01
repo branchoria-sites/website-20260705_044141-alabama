@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /montana-8d274f-index/
 description: Focused pages that expand on What Monsters Does Montana Remember Best?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Montana_8d274f
 parent_title: What Monsters Does Montana Remember Best?
