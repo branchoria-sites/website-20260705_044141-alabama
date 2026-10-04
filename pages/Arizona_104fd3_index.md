@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /arizona-104fd3-index/
 description: Focused pages that expand on What Makes Arizona's Monsters Feel So Real?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Arizona_104fd3
 parent_title: What Makes Arizona's Monsters Feel So Real?

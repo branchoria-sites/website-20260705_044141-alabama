@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-hampshire-824569-index/
 description: Focused pages that expand on What Lurks in New Hampshire's Wild Places?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: New_Hampshire_824569
 parent_title: What Lurks in New Hampshire's Wild Places?
