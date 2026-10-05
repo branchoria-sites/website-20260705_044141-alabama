@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /delaware-5861e4-index/
 description: Focused pages that expand on What Lurks in Delaware's Smallest Shadows?.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Delaware_5861e4
 parent_title: What Lurks in Delaware's Smallest Shadows?

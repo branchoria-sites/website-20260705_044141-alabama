@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /west-virginia-be1c72-index/
 description: Focused pages that expand on Why West Virginia Became Monster Country.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: West_Virginia_be1c72
 parent_title: Why West Virginia Became Monster Country

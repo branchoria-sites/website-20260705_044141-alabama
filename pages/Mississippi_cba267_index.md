@@ -7,7 +7,8 @@ nav_short_title: Sub-Topic Index
 permalink: /mississippi-cba267-index/
 description: Focused pages that expand on What Monsters Haunt Mississippi's Woods
   and....
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Mississippi_cba267
 parent_title: What Monsters Haunt Mississippi's Woods and...

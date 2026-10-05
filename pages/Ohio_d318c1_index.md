@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ohio-d318c1-index/
 description: Focused pages that expand on What Makes Ohio Such Good Monster Country?.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Ohio_d318c1
 parent_title: What Makes Ohio Such Good Monster Country?

@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-index/
 description: Focused pages that expand on Wyoming's Weirdest Beasts and Tall Tales.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Wyoming_ed190c
 parent_title: Wyoming's Weirdest Beasts and Tall Tales

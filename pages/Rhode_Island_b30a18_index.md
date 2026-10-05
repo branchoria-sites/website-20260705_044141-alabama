@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rhode-island-b30a18-index/
 description: Focused pages that expand on Does Rhode Island Really Have Monsters?.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Rhode_Island_b30a18
 parent_title: Does Rhode Island Really Have Monsters?

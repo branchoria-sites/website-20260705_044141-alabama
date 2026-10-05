@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /massachusetts-d42990-index/
 description: Focused pages that expand on Why Massachusetts Makes Such Strange....
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Massachusetts_d42990
 parent_title: Why Massachusetts Makes Such Strange...

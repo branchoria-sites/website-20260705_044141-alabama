@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /connecticut-ec4da3-index/
 description: Focused pages that expand on What Haunts Connecticut's Woods and Ridges?.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Connecticut_ec4da3
 parent_title: What Haunts Connecticut's Woods and Ridges?

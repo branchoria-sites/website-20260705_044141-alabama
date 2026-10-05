@@ -199,6 +199,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 14:23:31'
+last_modified_at: '2026-07-04 14:23:31'
 parent_title: Kansas Monsters
 parent_permalink: /what-monsters-lurk-in-kansas-folklore/
 parent_nav_short_title: Kansas Monsters

@@ -246,6 +246,7 @@ next_link:
   short_title: Smetty
   heading_title: Is Smetty Wyoming's Loch Ness Story?
 date: '2026-07-05 04:34:09 '
+last_modified_at: '2026-07-05 04:34:09 '
 header:
   og_image: /assets/images/Wyoming_ed190c_yellowstone_lake_mus_f3b56c-overview-social.jpg
   preview_image: /assets/images/Wyoming_ed190c_yellowstone_lake_mus_f3b56c-overview.webp
