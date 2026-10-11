@@ -22,8 +22,8 @@ permalink: /champ/
 sidebar_expanded_urls:
 - /what-makes-new-york-monster-country/
 nav_short_title: Champ
-title: Is Champ More Than a Lake Legend?
-title_full: Is Champ More Than a Lake Legend?
+title: "Is Champ More Than a Lake Legend? - New York"
+title_full: "Is Champ More Than a Lake Legend? - New York"
 display_title_short: Champ
 display_title: Champ
 heading_title: Is Champ More Than a Lake Legend?
