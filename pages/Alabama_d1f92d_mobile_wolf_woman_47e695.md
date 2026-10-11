@@ -828,7 +828,6 @@ That does not make the story worthless. For Alabama folklore, its value lies in 
 18.<a id="endnote-18"></a>
    Source: alabamacontemporary.org  
    Title: the avenue  
-   Link:https://www.alabamacontemporary.org/events/the-avenue/  
 
 ### Additional References
 

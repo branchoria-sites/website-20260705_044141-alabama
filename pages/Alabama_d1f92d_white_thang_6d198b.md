@@ -902,7 +902,6 @@ That is why the creature remains Alabama’s signature pale mystery beast. It is
 
 27.<a id="endnote-27"></a>
    Source: thearcofal.org  
-   Link:https://thearcofal.org/about-us/alabama-chapters-of-the-arc/  
 
 28.<a id="endnote-28"></a>
    Source: folkbestiary.com  
