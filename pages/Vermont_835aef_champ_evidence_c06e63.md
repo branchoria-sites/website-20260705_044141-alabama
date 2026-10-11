@@ -22,8 +22,8 @@ permalink: /champ-d39fef/
 sidebar_expanded_urls:
 - /what-haunts-vermonts-lakes-and-mountains/
 nav_short_title: Champ
-title: Is Champ More Than a Lake Legend?
-title_full: Is Champ More Than a Lake Legend?
+title: "Is Champ More Than a Lake Legend? - Vermont"
+title_full: "Is Champ More Than a Lake Legend? - Vermont"
 display_title_short: Champ
 display_title: Champ
 heading_title: Is Champ More Than a Lake Legend?
